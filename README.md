@@ -12,7 +12,7 @@ IF you DONT have Starship Horizons:
   
 # Shortterm To Do:
 (Note: Year in game is PD 1924, data should reflect that)
-1. Add Pedia entries (see https://honorverse.fandom.com/wiki/ for information). Change tense from past to present (i.e. was = is, used to = uses)
+1. Add Pedia entries (see https://honorverse.fandom.com/wiki/ for information). Change tense from past to present (i.e. was = is, used to = uses) ( [[text]] the double square brackets around pedia entries will link to that article, note the text must equal the entry title)
 2. Add custom government types for use in factions
 3. Add factions & faction relationships
 4. Add Names for the following: NPC's, Systems, Vessels
