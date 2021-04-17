@@ -1,0 +1,16 @@
+<resource fileversion="1">
+	<factions>
+		<faction name="Star Empire of Manticore" homeworld="Manticore" government="Feudalism" color="0 0 0 255">
+			<description>The Star Empire of Manticore was a federal state constituted of the Star Kingdom of Manticore and the Talbott Quadrant, created in 1921 PD. (See Star Kingdom of Manticore entry in IRIS)</description>
+			<details />
+			<ranks />
+			<relations>
+				<relation name="Haven" value="75" />
+				<relation name="Solarian" value="50" />
+				<relation name="Grayson" value="100" />
+				<relation name="Daichi" value="0" />
+				<relation name="Venkari" value="0" />
+			</relations>
+		</faction>
+	</factions>
+</resource>

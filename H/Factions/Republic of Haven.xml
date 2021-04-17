@@ -1,0 +1,18 @@
+<resource fileversion="1">
+	<factions>
+		<faction name="Republic of Haven" homeworld="Haven" government="Republic" color="0 0 0 255">
+			<description>The Republic of Haven, known as the People's Republic of Haven while governed by the Legislaturalists and the Committee of Public Safety (1700-1915 PD), was a multi-system star nation surrounded by many one-system independent nations.</description>
+			<details />
+			<ranks />
+			<relations>
+				<relation name="Alliance" value="0" />
+				<relation name="Carreon" value="0" />
+				<relation name="Chintu" value="0" />
+				<relation name="Daichi" value="0" />
+				<relation name="Venkari" value="0" />
+				<relation name="Star Empire of Manticore" value="0" />
+				<relation name="Solarian League" value="0" />
+			</relations>
+		</faction>
+	</factions>
+</resource>

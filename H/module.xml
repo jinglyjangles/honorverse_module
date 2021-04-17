@@ -1,0 +1,15 @@
+<module id="H" uid="" guid="02a47dec-c0a9-481b-8cc8-4f2bf2a664c7" parent="Horizons" priority="10" version="1.0.0" active="true">
+	<name>Honorverse</name>
+	<icon />
+	<image />
+	<watermark />
+	<banner />
+	<description />
+	<defaultmap />
+	<encounters random="true" />
+	<credits>
+		<credit title="Nikkeh">
+			<name />
+		</credit>
+	</credits>
+</module>

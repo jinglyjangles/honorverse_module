@@ -1,0 +1,996 @@
+<resource fileversion="1">
+  <pedias>
+    <pedia id="1289be09-3e19-4ccd-a787-637ba13104de" parentid="" type="Article" group="" tags="manticore, lord, parliament" access="0">
+      <path />
+      <name>House of Lords</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;House of Lords&lt;/strong&gt; is one of the two legislative bodies of the [[Star Kingdom of Manticore]], and together with the [[House of Commons]] form the Star Kingdom's Parliament.&lt;/p&gt;
+&lt;p&gt;Its membership consists entirely of Peers of the Realm and aristocrats, who hold seats in the House for life. All peerages above the rank of Baron from the three original planets of the Star Kingdom held two seats in the Lords: one for the current holder of the peerage and another "cadet seat" for his or her heir. Also, peers of the realm who had more than one title of nobility were entitled to have as many as two seats (and votes) with their respective cadet seats in the House. "Life peers" (members of the nobility whose titles and dignities cannot be inherited) were excluded from the House of Lords.&lt;/p&gt;
+&lt;p&gt;In the event that a member of the House was unavailable for voting, he or she could allow a proxy to vote in his or her name, provided certain conditions and procedures were previously met.&lt;/p&gt;
+&lt;p&gt;No elections were held for the Lords; new members of the House were created by the&amp;nbsp;Crown&amp;nbsp;with the consent and approval of a majority of the House of Commons, thus giving the lower house a say in the composition of the upper house. However, the membership of the Lords could not be increased over 10% between any two general elections, and the Lords reserved the right to refuse to seat a newly-created peer of the realm.&lt;/p&gt;
+&lt;p&gt;The House of Lords was the senior branch of the Manticoran Parliament, as the Star Kingdom's Constitution mandated that the Prime Minister must be a member of the House and command a majority of its members to hold the office. In addition, the Lords held the "power of the purse", which meant that they alone could initiate any budget, tax or appropriation bill, as well as approve its final form, which included the power to override any amendments introduced by the Commons. However, with the fall of the&amp;nbsp;High Ridge government, the&amp;nbsp;Grantville government&amp;nbsp;used its majority to introduce a transitional bill that over the course of 5 T-years would transfer its "power of the purse" to the Commons.&lt;/p&gt;
+&lt;p&gt;The presiding officer of the House of Lords is the Speaker, who is responsible for presiding the House's sessions and maintaining order between its members. Other members of the House staff included the Sergeant-at-Arms.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="15dc0958-68de-4435-9cea-7571b9fb32b8" parentid="" type="Article" group="" tags="manticore, parliament" access="0">
+      <path />
+      <name>House of Commons</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;House of Commons&lt;/strong&gt; is one of the chambers of the Parliament of the [[Star Kingdom of Manticore]], together with the [[House of Lords]].&lt;/p&gt;
+&lt;p&gt;Unlike the aristocratic and hereditary House of Lords, the House of Commons is composed of Members of Parliament (MPs) elected by and from the commoner population of the Star Kingdom, thus giving the non-aristocratic majority of the Crown's subjects a say in the government. In fact, the Star Kingdom's Constitution specifically forbade Peers of the Realm&amp;nbsp;to stand for election to the Commons, unless they had previously resigned their titles of nobility.&lt;/p&gt;
+&lt;p&gt;For elections to the Commons, the planets of the Star Kingdom are divided into constituencies known as "boroughs", with one MP representing each borough.&lt;/p&gt;
+&lt;p&gt;General elections to the House of Commons take place at least once every four Manticoran years, and could only be delayed during times of war. In the event that a Member of Parliament resigned his or her seat before the following general election, a special by-election was called in his or her borough to replace the resigning MP.&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;While the&amp;nbsp;Prime Minister is required to come from the Lords and command a majority in said House, other members of the Cabinet&amp;nbsp;could come from the Commons, and in general any Prime Minister tried to cultivate a good relationship with the lower house - and through the Commons, with the general population of the Star Kingdom.&lt;/p&gt;
+&lt;p&gt;The Commons can initiate legislation and veto bills passed by the Lords, but its legislative powers on matters of budget and appropriations are limited under the Star Kingdom's Constitution, as it conferred to the House of Lords exclusive powers of initiation and final approval of finance bills. Conversely, the Commons exerted influence in the House of Lords by the constitutional requirement that any newly-created peerage must be approved by the lower house. Additionally, the revoking of a peerage could only occur with the approval of the Commons.&lt;/p&gt;
+&lt;p&gt;The House of Lords was the senior branch of the Manticoran Parliament, as the Star Kingdom's Constitution mandated that the Prime Minister must be a member of the House and command a majority of its members to hold the office. In addition, the Lords held the "power of the purse", which meant that they alone could initiate any budget, tax or appropriation bill, as well as approve its final form, which included the power to override any amendments introduced by the Commons. However, with the fall of the&amp;nbsp;High Ridge government, the&amp;nbsp;Grantville government&amp;nbsp;used its majority to introduce a transitional bill that over the course of 5 T-years would transfer its "power of the purse" to the Commons.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="170507a4-fda8-45d3-977e-2607972ddf64" parentid="" type="Article" group="" tags="al, time, year, manticore" access="0">
+      <path />
+      <name>AL</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;After Landing&lt;/strong&gt;&amp;nbsp;or&amp;nbsp;&lt;strong&gt;AL&lt;/strong&gt; designation is the official time reckoning in the Star Kingdom of Manticore, although most people used the [[PD]] system&amp;nbsp;in day-to-day life.&lt;/p&gt;
+&lt;p&gt;An AL date described how many Manticoran years (with one Manticore year equalling 1.7333 T-years) ago the first&amp;nbsp;shuttle&amp;nbsp;from the&amp;nbsp;colony ship&amp;nbsp;&lt;em&gt;Jason&lt;/em&gt; landed on the planet [[Manticore]]. The Year 0 AL were the first 1.7333 T-years after March 1416 PD.&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="1aeb8f16-d613-4cd3-b96f-35fa3843da92" parentid="" type="Article" group="" tags="pd, time, year" access="0">
+      <path />
+      <name>PD</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The term&amp;nbsp;&lt;strong&gt;Post Diaspora&lt;/strong&gt;&amp;nbsp;(&lt;strong&gt;PD&lt;/strong&gt; for short) is the common interstellar era description of the [[humans]] who colonized the Galaxy during the Diaspora of Man. The Diaspora began in the year 2103 CE, when first human colonisation ship, &lt;em&gt;Prometheus&lt;/em&gt;, left [[Earth]].&lt;/p&gt;
+&lt;p&gt;The term&amp;nbsp;&lt;em&gt;Ante Diaspora&lt;/em&gt; (AD) was used for the preceding era. &lt;br /&gt;&lt;br /&gt;(see also [[AL]])&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="5787ee6c-3456-4566-ae0e-4aad9ecb0dc5" parentid="" type="Article" group="" tags="manticore, planet, human" access="0">
+      <path />
+      <name>Manticore</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Manticore&lt;/strong&gt;, officially&amp;nbsp;&lt;strong&gt;Manticore A-III&lt;/strong&gt;, is the third planet of the [[Manticore System]] and the capital world of the [[Star Kingdom]] and [[Star Empire of Manticore]].&lt;br /&gt;&lt;br /&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Manticore A-III&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="0"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/8/8c/Manticoran_planet.png/revision/latest?cb=20100919154742"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/8/8c/Manticoran_planet.png/revision/latest/scale-to-width-down/200?cb=20100919154742" alt="Manticoran planet.png" width="200" height="200" data-image-name="Manticoran planet.png" data-image-key="Manticoran_planet.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Manticore System]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Star Empire of Manticore]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Settled&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1416 PD&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Landing&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1.5 billion&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diameter&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;12,992 km&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Gravity&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1.01 G&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Satellites&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1 (Thorson)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="5942ba00-965f-463d-afc8-54e69f71f617" parentid="" type="Article" group="" tags="manticore, monarch, queen, king" access="0">
+      <path />
+      <name>Monarch</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;King&lt;/strong&gt;&amp;nbsp;or&amp;nbsp;&lt;strong&gt;Queen of Manticore&lt;/strong&gt; was the head of state and government of the [[Star Kingdom of Manticore]]. The throne was in the hands of the&amp;nbsp;House of Winton&amp;nbsp;since&amp;nbsp;Roger Winton, President and CEO of&amp;nbsp;Manticore Colony, Ltd., was crowned King in&amp;nbsp;1485 PD&lt;/p&gt;
+&lt;p&gt;As in ancient&amp;nbsp;Great Britain, the office of the Monarch was officially known as the "&lt;strong&gt;Crown&lt;/strong&gt;".&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In 1921 PD, the Manticoran kingdom was transformed into a&amp;nbsp;Star Empire, so future monarchs would be known as&amp;nbsp;&lt;strong&gt;Emperor&lt;/strong&gt;&amp;nbsp;or&amp;nbsp;&lt;strong&gt;Empress of Manticore&lt;/strong&gt;. (see [[Star Empire of Manticore]])&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;table class="wikitable" style="height: 1005px; width: 100%;" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;th style="height: 43px; width: 11.1411%;" width="100"&gt;&amp;nbsp;Monarch&lt;/th&gt;
+&lt;th style="height: 43px; width: 11.9642%;" width="85"&gt;reign ([[PD]])&lt;/th&gt;
+&lt;th style="height: 43px; width: 7.43742%;" width="85"&gt;reign ([[AL]])&lt;/th&gt;
+&lt;th style="height: 43px; width: 28.1508%;" width="450"&gt;Important events&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;1.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Roger I&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1485 &amp;ndash; 1489&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;&amp;ndash;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;Founding of the Star Kingdom and the Winton dynasty&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 87px;"&gt;
+&lt;td style="height: 87px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;2.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Elizabeth I&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1489 &amp;ndash; 1521&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 28.1508%;" width="85"&gt;&lt;center&gt;&amp;ndash; 53&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 31.7173%;" width="450"&gt;Securing of the Monarchs' power against the&amp;nbsp;nobility. Treecats discovered during her reign.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;3.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Michael I&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1521 &amp;ndash; 1542&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;53 &amp;ndash; 72&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;4.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Edward I&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1542 &amp;ndash; 1544&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;72 &amp;ndash; 74&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;Died in a boating accident trying to save his daughter&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 185px;"&gt;
+&lt;td style="height: 185px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;5.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 185px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Elizabeth II&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 185px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1544 &amp;ndash; 1601&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 185px; width: 28.1508%;" width="85"&gt;&lt;center&gt;74 &amp;ndash; 107&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 185px; width: 31.7173%;" width="450"&gt;Legislation of 9th Ammendment to the&amp;nbsp;Manticoran Constitution that granted sovereign rights to one third of Sphinx to [[Treecats]]
+&lt;p&gt;Discovery of [[Manticore Wormhole Junction]].&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;6.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;David I&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1601 &amp;ndash; 1642&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;107 &amp;ndash; 131&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;7.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Roger II&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1642 &amp;ndash; 1669&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;131 &amp;ndash; 147&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;Legislation of the&amp;nbsp;Treecat Rights Bill&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 87px;"&gt;
+&lt;td style="height: 87px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;8.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Adrienne&amp;nbsp;*&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1669 &amp;ndash; 1681&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 28.1508%;" width="85"&gt;&lt;center&gt;147 &amp;ndash; 154&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 31.7173%;" width="450"&gt;First adoption of a Monarch or Heir by a [[treecat]]. Anti-piracy campaign in [[Silesia]], death of Edward Saganami.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;9.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;William I&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1681 &amp;ndash; 1690&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;154 &amp;ndash; 158&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;Assassinated&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;10.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;William II&amp;nbsp;*&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1690 &amp;ndash; 1741&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;158 &amp;ndash; 188&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;11.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Caitrin I&amp;nbsp;*&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1741 &amp;ndash; 1762&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;188 &amp;ndash; 200&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;12.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Samantha I&amp;nbsp;*&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1762 &amp;ndash; 1785&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;200 &amp;ndash; 214&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;13.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Michael II&amp;nbsp;&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1785 &amp;ndash; 1802&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;214 &amp;ndash; 224&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;Suffered severe allergies, rarely if ever left Mount Royal Palace&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;14.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Samantha II&amp;nbsp;*&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1802 &amp;ndash; 1857&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;224 &amp;ndash; 255&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;15.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Roger III&amp;nbsp;*&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1857 &amp;ndash; 1883&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 28.1508%;" width="85"&gt;&lt;center&gt;255 &amp;ndash; 270&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 31.7173%;" width="450"&gt;Assassinated&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 87px;"&gt;
+&lt;td style="height: 87px; width: 11.1411%;" width="15"&gt;&lt;strong&gt;16.&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 11.9642%;" width="100"&gt;&lt;center&gt;&lt;strong&gt;Elizabeth III&amp;nbsp;*&lt;/strong&gt;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 7.43742%;" width="85"&gt;&lt;center&gt;1883 &amp;ndash;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 28.1508%;" width="85"&gt;&lt;center&gt;270 &amp;ndash;&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 87px; width: 31.7173%;" width="450"&gt;First&amp;nbsp;and&amp;nbsp;Second Havenite-Manticoran War,&lt;br /&gt;Creation of the [[Star Empire of Manticore]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;* Indicates treecat adoption</content>
+      <contentgm />
+    </pedia>
+    <pedia id="5a3abd74-59cc-4032-b6f5-fdcff7e06bac" parentid="" type="Article" group="" tags="manticore, RMN, navy, admiral, admiralty" access="0">
+      <path />
+      <name>First Space Lord</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;First Space Lord&lt;/strong&gt; is a member of the [[Manticoran Admiralty]] and the senior uniformed officer of the [[Royal Manticoran Navy]].</content>
+      <contentgm />
+    </pedia>
+    <pedia id="5d7eac06-e1b9-441d-8b34-3d0d5ec8f568" parentid="" type="Article" group="" tags="manticore, manties" access="0">
+      <path />
+      <name>Star Kingdom of Manticore</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Star Kingdom of Manticore&lt;/strong&gt; was a [[star nation]], an interstellar state consisting of the [[[Manticore System]]] and all or part of the seven systems accessible through the [[[Manticore Wormhole Junction]]].
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;Star Geography&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The binary [[Manticore System]] was located 512 light-years to the Galactic north of the [[Sol System]]&amp;nbsp;and&amp;nbsp;[[Earth]]. It contained three habitable planets: the capital planet of [[Manticore]], [[Sphinx]], and [[Gryphon]].&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;For most of its history, the Star Kingdom was a single-system nation. However, from the 19th Century PD onwards it began to incorporate new systems for strategic reasons, mostly to control the termini of the Manticore Wormhole Junction, and eventually at the request of those systems' own populations and governments.&lt;/p&gt;
+&lt;table style="width: 64.4719%;" cellspacing="3" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 93.923%;" colspan="2"&gt;&lt;strong&gt;Star Kingdom of Manticore&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Form of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;Constitutional Monarchy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Official language&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;Standard English&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Home Planet&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;[[Manticore]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Capital&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;Landing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Head of State&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;[[Monarch]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Head of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;[[Monarch]]&amp;nbsp;(formal)&lt;br /&gt;
+&lt;p&gt;[[Prime Minister]]&amp;nbsp;(customary)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Senior Military Commander&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;[[First Space Lord]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Executive Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;Royal Council&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Legislative Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;Parliament&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;[[House of Lords]]&lt;/li&gt;
+&lt;li&gt;[[House of Commons]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Military&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;[[Royal Manticoran Navy]]&lt;br /&gt;[[Royal Manticoran Army]]&lt;br /&gt;[[Royal Manticoran Marine Corps]]&lt;br /&gt;[[Talbott Quadrant Guard]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Founded&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;1485 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="width: 44.5147%;"&gt;&lt;strong&gt;Currency&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="width: 49.4083%;"&gt;Manticoran dollar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="607e347e-2434-407a-8d07-2d608005b029" parentid="" type="Article" group="" tags="manticore, wormhole" access="0">
+      <path />
+      <name>Manticore Wormhole Junction</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Manticore Wormhole Junction&lt;/strong&gt; is a [[wormhole junction]] whose central node was in the [[Manticore System]].&lt;br /&gt;&lt;br /&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/7/70/Manticore_wormhole_map.GIF/revision/latest/scale-to-width-down/300?cb=20091105123402" /&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Astrophysics" class="mw-headline"&gt;Astrophysics&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;That node is an invisible sphere in space, a light-second in diameter, and has a total of seven known external termini as of 1921 PD. It lay 7 light-hours from Manticore-A.&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Known_termini" class="mw-headline"&gt;Known termini&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The&amp;nbsp;Manticore Terminus&amp;nbsp;was located in the Manticore-A System itself and was the central node of the Junction. All traffic necessarily passed through that node regardless of its destination.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basilisk Terminus &amp;ndash; 210 ly to Galactic North of Manticore &amp;ndash; located near the [[Basilisk System]].&lt;/li&gt;
+&lt;li&gt;Beowulf Terminus&amp;nbsp;&amp;ndash; 475 ly to the Galactic South &amp;ndash; located near the&amp;nbsp;Sigma Draconis System (co-managed with [[Beowulf]], a member of the [[Solarian League]])&lt;/li&gt;
+&lt;li&gt;Gregor Terminus &amp;ndash; 180 ly to the Galactic Northwest &amp;ndash; located near the Gregor Binary System (since 1869 PD the system was partially controlled by the [[Anderman Empire]]).&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;li&gt;Hennesy Terminus&amp;nbsp;&amp;ndash; 712 ly to the Galactic Southeast &amp;ndash; located in the&amp;nbsp;Phoenix Cluster&lt;/li&gt;
+&lt;li&gt;Lynx Terminus&amp;nbsp;&amp;ndash; 612 ly to the Galactic Southwest &amp;ndash; located in the&amp;nbsp;Talbott Cluster&amp;nbsp;(and later the&amp;nbsp;Talbott Quadrant.)&lt;/li&gt;
+&lt;li&gt;Matapan Terminus&amp;nbsp;&amp;ndash; 472 ly to the Galactic West &amp;ndash; located near the&amp;nbsp;Matapan&amp;nbsp;System&lt;/li&gt;
+&lt;li&gt;Trevor's Star Terminus &amp;ndash; 210 ly to the Galactic Northeast - located near the [[Trevor's Star System]]&lt;/li&gt;
+&lt;/ul&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="61b1bdda-ccd7-4677-a032-d58c6f9cbb11" parentid="" type="Article" group="" tags="treecat, sphinx" access="0">
+      <path />
+      <name>Treecat</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Treecat&lt;/strong&gt; is the common name of the native sentient species of the planet [[Sphinx]] in the [[Manticore System]]. They are often referred to by the shortened version, '&lt;strong&gt;cats&lt;/strong&gt;, and referred to themselves as&amp;nbsp;&lt;strong&gt;The People.&lt;/strong&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="6faed20a-b860-4d13-b1de-1148d0dd0e40" parentid="" type="Article" group="" tags="rmmc, marines, manticore" access="0">
+      <path />
+      <name>Royal Manticoran Marine Corps</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Royal Manticoran Marine Corps&lt;/strong&gt;, or&amp;nbsp;&lt;strong&gt;RMMC&lt;/strong&gt;, are the "amphibious" military force of the [[Star Kingdom of Manticore]], mostly serving aboard [[Royal Manticoran Navy]]&amp;nbsp;vessels.&lt;/p&gt;
+&lt;p&gt;The motto of the RMMC is &lt;em&gt;Possimus Perficio&lt;/em&gt;&amp;nbsp;("Can Do").&lt;br /&gt;&lt;br /&gt;The RMMC are stationed on planets, stations, and vessels with duties such as security. Marines take part in boarding and landing parties. During Naval combat, Marines man the ship's weapon and defensive stations as well as assist in damage control.&amp;nbsp; The RMMC's main "boot camp" is not located on Saganami Island, but on the planet Gryphon, taking advantage of the harsh climate for training.&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="7095b9a3-fc68-411f-ae0c-bd3d9f9b0321" parentid="" type="Article" group="" tags="rmn, navy, manticore, manties" access="0">
+      <path />
+      <name>Royal Manticoran Navy</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Royal Manticoran Navy&lt;/strong&gt;, or&amp;nbsp;&lt;strong&gt;RMN&lt;/strong&gt;, is the main military force for the Star Kingdom and [[Star Empire of Manticore]].&lt;/p&gt;
+&lt;p&gt;Ships of the RMN use the prefix HMS (His/Her Majesty's Ship).&lt;/p&gt;
+&lt;p&gt;Its officers are trained at [[Saganami Island Academy]].&lt;/p&gt;
+&lt;p&gt;The RMN's motto is &lt;em&gt;Fortitudo, Fidelitas, Decus&lt;/em&gt;&amp;nbsp;(Courage, Loyalty, Honor).&lt;/p&gt;
+&lt;p&gt;The official motto of the RMN was "&lt;em&gt;The Tradition Lives&lt;/em&gt;."&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="7795bb4e-0ba9-4c9b-a2f6-93ab2202c058" parentid="" type="Article" group="" tags="manticore, prime minister, government" access="0">
+      <path />
+      <name>Prime Minister of the Star Kingdom of Manticore</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Prime Minister&lt;/strong&gt; is the head of the Star Kingdom of Manticore's government. He or she is appointed by the monarch&amp;nbsp;and needed the support of a majority in&amp;nbsp;parliament to get elected. Prime Ministers are required to be seated members of the House of Lords.&lt;/p&gt;
+&lt;p&gt;In&amp;nbsp;1900 PD,&amp;nbsp;Lord Allen Summervale,&amp;nbsp;Duke of Cromarty, was the Prime Minister, and had been for many years.&amp;nbsp; After he died in a Masadan assassination attempt on [[Queen Elizabeth III]] and [[Protector Benjamin IX]],&amp;nbsp;Michael Janvier,&amp;nbsp;Baron High Ridge, took over against the expressed wish of the Queen. He was himself replaced by William Alexander five years later when the [[Second Havenite-Manticoran War]] began and the failure of the High Ridge government became obvious.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;After the creation of the [[Star Empire of Manticore]], the Prime Minister's authority remained restricted to the Old Star Kingdom, while the [[Talbott Quadrant]] was governed by its own prime minister.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;Prime Ministers&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Davis Harper,&amp;nbsp;Duke of Burgundy&amp;nbsp;&amp;ndash; around 1530 PD&lt;/li&gt;
+&lt;li&gt;Julian Mulholland,&amp;nbsp;Baron of Harwich&amp;nbsp;- 1543 PD&lt;/li&gt;
+&lt;li&gt;Margo Thackeray&amp;nbsp;&amp;ndash; around 1752 PD&lt;/li&gt;
+&lt;li&gt;Casper O'Grady,&amp;nbsp;Earl of Mortenson&amp;nbsp;&amp;ndash; around 1850 PD&lt;/li&gt;
+&lt;li&gt;Leonard Shumate, Earl of Thompson &amp;ndash; around 1852 PD&lt;/li&gt;
+&lt;li&gt;Allen Summervale,&amp;nbsp;Duke Cromarty&amp;nbsp;&amp;ndash; 1857-1915 PD (with three interruptions)&lt;/li&gt;
+&lt;li&gt;Michael Janvier,&amp;nbsp;Baron High Ridge&amp;nbsp;&amp;ndash; 1915-1920 PD&lt;/li&gt;
+&lt;li&gt;William Alexander,&amp;nbsp;Baron Grantville&amp;nbsp;&amp;ndash; 1920 PD-&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="81658978-e472-4864-94e4-63c3ee622bb0" parentid="" type="Article" group="" tags="earth, solarian" access="0">
+      <path />
+      <name>Sol System</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Sol System&lt;/strong&gt; is a G2 star system in the [[Solarian League]]. As its third planet, [[Earth]], was the original homeworld of the [[human]]&amp;nbsp;race, Sol was the League's capital system, as well as one of the most populated and industrialized ones.&lt;/p&gt;
+&lt;p&gt;In&amp;nbsp;1900 PD, the Sol System's&amp;nbsp;gross system product was the highest of all human systems.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In&amp;nbsp;January 1923 PD, the [[Battle of Sol]]&amp;nbsp;saw the defeat of the system defenses and the destruction of almost all its extensive&amp;nbsp;orbital industry by the [[Grand Alliance]].&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="8de7a5b2-ff7a-4699-afc3-9e5705c8df45" parentid="" type="Article" group="" tags="planet, manticore, gryphon" access="0">
+      <path />
+      <name>Gryphon</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Gryphon&lt;/strong&gt;, also known as&amp;nbsp;&lt;strong&gt;Manticore B-IV&lt;/strong&gt;, is the third habitable planet located in the [[Manticore System]], orbiting its secondary star. It was the last planet settled by the Manticoran colonists, being the least hospitable one.&lt;br /&gt;&lt;br /&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Gryphon&lt;br /&gt;(Manticore B-IV)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="0"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/8/8c/Manticoran_planet.png/revision/latest?cb=20100919154742"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/8/8c/Manticoran_planet.png/revision/latest/scale-to-width-down/200?cb=20100919154742" alt="Manticoran planet.png" width="200" height="200" data-image-name="Manticoran planet.png" data-image-key="Manticoran_planet.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Manticore System]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Star Empire of Manticore]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Settled&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;600 million&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diameter&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;11,878 km&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Gravity&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1.05 G&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Satellites&lt;/strong&gt;:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="9064a06b-5a87-43a8-bcc2-0fb9cde8d92d" parentid="" type="Article" group="" tags="manticore, star system" access="0">
+      <path />
+      <name>Manticore System</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Manticore System&lt;/strong&gt; is a binary star system and the home system of the [[Star Kingdom of Manticore]]. The kingdom's capital planet, [[Manticore]], is located in the system, as are the planets [[Sphinx]] and [[Gryphon]], and the [[Manticore Wormhole Junction]].&lt;br /&gt;
+&lt;p&gt;It is located 512 light-years from [[Earth]].&lt;/p&gt;
+&lt;p&gt;All planets in the system were named after creatures from Earth mythology.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;Star Geography&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/9/95/Manticore-A.jpg/revision/latest?cb=20081224123425"&gt;&lt;img class="thumbimage" src="https://static.wikia.nocookie.net/honorverse/images/9/95/Manticore-A.jpg/revision/latest/scale-to-width-down/300?cb=20081224123425" alt="" width="300" height="145" data-image-name="Manticore-A.jpg" data-image-key="Manticore-A.jpg" /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p class="caption"&gt;Manticore-A chart&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Manticore-A" class="mw-headline"&gt;Manticore-A&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;(G0 star)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Salamander&amp;nbsp;(Manticore-A I)&lt;/li&gt;
+&lt;li&gt;Phoenix&amp;nbsp;(Manticore-A II)&lt;/li&gt;
+&lt;li&gt;[[Manticore]]&amp;nbsp;(Manticore A III, inhabitable, capital)
+&lt;ul&gt;
+&lt;li&gt;Thorson&amp;nbsp;(Moon)&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;[[Sphinx]] (Manticore-A IV, inhabitable, [[treecat]]&amp;nbsp;homeworld)
+&lt;ul&gt;
+&lt;li&gt;Perseus&amp;nbsp;(moon)&lt;/li&gt;
+&lt;li&gt;Bellerophon&amp;nbsp;(moon)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Draco&amp;nbsp;(Manticore-A V, gas giant)&lt;/li&gt;
+&lt;li&gt;Roc&amp;nbsp;(Manticore-A VI, gas giant)&lt;/li&gt;
+&lt;li&gt;Wyvern&amp;nbsp;(Manticore-A VII, gas giant)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class="mw-headline"&gt;&lt;span class="mw-headline"&gt;&lt;br /&gt;&lt;br /&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/5/53/Manticore-B.jpg/revision/latest?cb=20081224123452"&gt;&lt;img class="thumbimage" src="https://static.wikia.nocookie.net/honorverse/images/5/53/Manticore-B.jpg/revision/latest/scale-to-width-down/300?cb=20081224123452" alt="" width="300" height="272" data-image-name="Manticore-B.jpg" data-image-key="Manticore-B.jpg" /&gt;&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;p class="caption"&gt;Manticore-B chart&lt;/p&gt;
+&lt;span id="Manticore-B" class="mw-headline"&gt;&lt;/span&gt;&lt;span class="mw-headline"&gt;&lt;strong&gt;&lt;span style="font-size: 14pt;"&gt;Manticore-B&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;(G2 star)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Erinye&amp;nbsp;(Manticore-B I)&lt;/li&gt;
+&lt;li&gt;Gorgon&amp;nbsp;(Manticore-B II)&lt;/li&gt;
+&lt;li&gt;Aphrodite&amp;nbsp;(Manticore-B III)&lt;/li&gt;
+&lt;li&gt;Damocles&amp;nbsp;(Manticore-B IV)&lt;/li&gt;
+&lt;li&gt;[[Gryphon]]&amp;nbsp;(Manticore-B V, inhabitable)
+&lt;ul&gt;
+&lt;li&gt;Egg&amp;nbsp;(moon)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl&gt;
+&lt;dd&gt;&amp;mdash;&amp;nbsp;Unicorn Belt&lt;/dd&gt;
+&lt;dd&gt;&amp;mdash;&amp;nbsp;Nibelung Belt&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;Titan&amp;nbsp;(Manticore-B VI)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;dl&gt;
+&lt;dd&gt;&amp;mdash;&amp;nbsp;Gorgon Belt&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;Fenris&amp;nbsp;(Manticore-B VII, gas giant)&amp;nbsp;&lt;sup id="cite_ref-2" class="reference"&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span id="Military" class="mw-headline"&gt;Military&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The Manticore System is home to several fleets of the [[Royal Manticoran Navy]]:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[[Home Fleet]]&amp;nbsp;&amp;ndash; permanently stationed in the Manticore System, usually near Manticore itself&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span id="Facilities" class="mw-headline"&gt;Facilities&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The RMN's main shipyards,&amp;nbsp;HMSS&amp;nbsp;&lt;em&gt;Hephaestus&lt;/em&gt;&amp;nbsp;and&amp;nbsp;HMSS&amp;nbsp;&lt;em&gt;Vulcan&lt;/em&gt;, were both located in this system, as was&amp;nbsp;HMSS&amp;nbsp;&lt;em&gt;Weyland&lt;/em&gt;, the main naval research station. All three were destroyed in 1922 PD by the Mesan&amp;nbsp;Operation Oyster Bay.&amp;nbsp;&lt;/p&gt;
+&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;&lt;span style="font-size: 18pt;"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/strong&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="9367c48d-db03-4d26-82d1-37ab16aecf5f" parentid="" type="Article" group="" tags="rma, army, manticore" access="0">
+      <path />
+      <name>Royal Manticoran Army</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Royal Manticoran Army&lt;/strong&gt;&amp;nbsp;(or&amp;nbsp;&lt;strong&gt;RMA&lt;/strong&gt;) is the primary ground combat branch of the [[Star Kingdom of Manticore]]'s armed forces.&lt;br /&gt;&lt;br /&gt;
+&lt;p&gt;The Army's main mission is to fight enemy ground forces, secure and maintain control of planetary surfaces, and maintain the peace against uprisings or unrest when called to do so by the Government. For that mission, the Army is equipped with tanks and other armored vehicles, sting ships, artillery, and power armor. The Army also maintains the Royal Manticoran Army Atmospheric Command, which could effectively be thought of as the Royal Manticoran Air Force.&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;As during peacetime the bulk of the military needs of the Star Kingdom are met by the [[Royal Manticoran Navy]] and the [[Royal Manticoran Marine Corps]], the Army is usually severely downsized, and its activity focused upon improving its capabilities and training for the event of a war. In wartime, however, the Army is greatly expanded to meet the needs of ground troops to hold and secure enemy territory following initial assaults by the Marines.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="a1dbeeb9-986a-441a-9881-cbd040d764d3" parentid="" type="Article" group="" tags="fleet" access="0">
+      <path />
+      <name>Home Fleet</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Home Fleet&lt;/strong&gt;&amp;nbsp;may refer to:&lt;br /&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;the&amp;nbsp;Manticoran Home Fleet, tasked with guarding the [[Manticore System]] and reinforce wormhole termini pickets.&lt;/li&gt;
+&lt;li&gt;the&amp;nbsp;Havenite Capital Fleet, tasked with guarding the [[Haven System]].&lt;/li&gt;
+&lt;li&gt;the&amp;nbsp;Grayson Home Fleet, tasked with guarding the [[Yeltsin's Star System]].&lt;/li&gt;
+&lt;li&gt;the&amp;nbsp;Andermani Home Fleet, tasked with guarding the [[New Berlin System]].&lt;/li&gt;
+&lt;/ul&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="b97abbdf-8208-4c19-8d84-85cacd0618ad" parentid="" type="Article" group="" tags="planet, earth, solarian, sol, sol system, human" access="0">
+      <path />
+      <name>Earth</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Earth&lt;/strong&gt;, also known as&amp;nbsp;&lt;strong&gt;Terra&lt;/strong&gt;&amp;nbsp;or&amp;nbsp;&lt;strong&gt;Old Earth&lt;/strong&gt;, is the third planet of the [[Sol System]], the homeworld of&amp;nbsp;humanity, and the capital of the [[Solarian League]].&lt;br /&gt;&lt;br /&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Earth&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="0"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/9/97/The_Earth_seen_from_Apollo_17.jpg/revision/latest?cb=20090114193901"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/9/97/The_Earth_seen_from_Apollo_17.jpg/revision/latest/scale-to-width-down/225?cb=20090114193901" alt="The Earth seen from Apollo 17.jpg" width="225" height="225" data-image-name="The Earth seen from Apollo 17.jpg" data-image-key="The_Earth_seen_from_Apollo_17.jpg" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Sol System]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Solarian League]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Settled&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[ homeworld ]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Chicago&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Several billion&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diameter&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;12,742 km&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Gravity&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1.0 G&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Satellites&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1 (Luna)&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="c3e4899b-8686-45f6-8491-434560e9ef34" parentid="" type="Article" group="" tags="manticore, rmn, navy, admiral" access="0">
+      <path />
+      <name>Manticoran Admiralty</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Admiralty&lt;/strong&gt; is the authority in the [[Star Kingdom of Manticore]] responsible for the command of the [[Royal Manticoran Navy]].&lt;/p&gt;
+&lt;p&gt;The Lords of Admiralty were civilian officials who administered the Navy through seven Space Lords, active senior RMN officers. The Lords were subordinated to the&amp;nbsp;Minister of War.&lt;/p&gt;
+&lt;p&gt;The main offices are located in the Admiralty Building in the capital city of Landing.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Lords_of_the_Admiralty" class="mw-headline"&gt;Lords of the Admiralty&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First Lord of the Admiralty&amp;nbsp;&amp;ndash; the civilian head of the Royal Manticoran Navy, handling the overall coordination of naval policy as directed by the Cabinet&lt;/li&gt;
+&lt;li&gt;Second Lord of the Admiralty&amp;nbsp;&amp;ndash; responsible for the budgetary and fiscal management&lt;/li&gt;
+&lt;li&gt;Third Lord of the Admiralty&amp;nbsp;&amp;ndash; responsible for health and manpower&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span id="Space_Lords" class="mw-headline"&gt;Space Lords&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[[First Space Lord]]&amp;nbsp;- the senior active-duty officer in the Royal Manticoran Navy, responsible for overall strategic direction, force structure management and deployment; directly under the First Space Lord's direction were the Type Commanders - each a full or fleet admiral charged with the maintenance and training of a specific class of naval vessel - and the Strategy Board.&lt;/li&gt;
+&lt;li&gt;Second Space Lord&amp;nbsp;- handled operational and tactical planning and is the head of the Office of Naval Intelligence and headed the Bureau of Planning (BuPlan); probably had also some power with Criminal Investigation Division supervision.&lt;/li&gt;
+&lt;li&gt;Third Space Lord&amp;nbsp;- oversaw construction and maintenance of warships in accordance with directions from the Second Lord of Admiralty as a head of the Bureau of Ships (BuShips).&lt;/li&gt;
+&lt;li&gt;Fourth Space Lord&amp;nbsp;- responsible for research and development of new systems for the Navy as a Head of the Bureau of Weapons (BuWeaps).&lt;/li&gt;
+&lt;li&gt;Fifth Space Lord&amp;nbsp;- managed recruitment and manpower and oversaw transfers and placement of naval personnel as a Head of the Bureau of Personnel (BuPers).&lt;/li&gt;
+&lt;li&gt;Sixth Space Lord&amp;nbsp;- as a Head of the Bureau of Training (BuTrain) was responsible for the training and education of naval personnel in accordance with the Third Lord of Admiralty and the Fifth Space Lord.&lt;/li&gt;
+&lt;li&gt;Seventh Space Lord&amp;nbsp;- as a Head of the Medical Bureau (BuMed) was in charge of the health and medical treatment of all Navy personnel and administered Naval Hospitals.&lt;/li&gt;
+&lt;/ul&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="e6702b5f-2b13-4ea1-9360-839cfa6a179e" parentid="" type="Article" group="" tags="planet, sphinx, manticore" access="0">
+      <path />
+      <name>Sphinx</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Sphinx&lt;/strong&gt;, also called&amp;nbsp;&lt;strong&gt;Manticore A-IV&lt;/strong&gt;, is one of the three inhabited planets of the [[Manticore System]], and the homeworld of the [[treecats]]. It orbits the system's primary star along with the planet [[Manticore]].&lt;br /&gt;&lt;br /&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Sphinx&lt;br /&gt;(Manticore A-IV)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="0"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/5/53/Sphinx_from_space.png/revision/latest?cb=20110919105133"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/5/53/Sphinx_from_space.png/revision/latest/scale-to-width-down/225?cb=20110919105133" alt="Sphinx from space.png" width="225" height="218" data-image-name="Sphinx from space.png" data-image-key="Sphinx_from_space.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Manticore System]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Star Empire of Manticore]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Settled&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;15th Century PD&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Yawata Crossing&amp;nbsp;(original)&lt;br /&gt;Tillingham&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1.2 billion humans&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;br /&gt;~ 12 million treecats&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diameter&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;13,906 km&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Gravity&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1.35 G&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Satellites&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Perseus&lt;br /&gt;Bellerophon&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="fda804d1-63ea-4947-bc9a-ab25b5f63685" parentid="" type="Article" group="" tags="talbott, manticore" access="0">
+      <path />
+      <name>Talbott Quadrant Guard</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Quadrant Guard&lt;/strong&gt; was a local defense force for the [[Talbott Quadrant]] of the [[Star Empire of Manticore]].&amp;nbsp;</content>
+      <contentgm />
+    </pedia>
+  </pedias>
+</resource>
