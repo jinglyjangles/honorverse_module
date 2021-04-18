@@ -1,0 +1,12 @@
+<resource fileversion="1">
+  <commodities>
+    <commodity name="Kodiak Max pelts" container="Canister" rarity="0" volatility="0" yield="0" state="Solid" tags="blackmarket">
+      <icon />
+      <image />
+      <description>Pelts of the endangered Kodkiak Maximus from Gryphon</description>
+      <details />
+      <source />
+      <properties />
+    </commodity>
+  </commodities>
+</resource>

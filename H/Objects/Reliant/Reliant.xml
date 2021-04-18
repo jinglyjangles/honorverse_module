@@ -1,0 +1,32 @@
+<resource fileversion="1">
+  <vesselclasses>
+    <vesselclass name="Reliant" subtype="Battlecruisers" modelclass="" heartrate="0" hull="1200" dialogid="" scale="1" sentient="false" showweapons="false" visible="false">
+      <specs manufacturer="" tons="881250" />
+      <namemask>[NAME]</namemask>
+      <designationmask />
+      <description>Built at the turn of the 20th Century PD, the Reliant-class battlecruisers were regarded as among the most advanced and powerful vessels in their classification.</description>
+      <scene>
+        <normal>Images\Backdrops\vessel-backdrop.png</normal>
+        <nopower>Images\Backdrops\vessel-backdrop.png</nopower>
+        <slightdamage>Images\Backdrops\vessel-backdrop.png</slightdamage>
+        <severedamage>Images\Backdrops\vessel-backdrop.png</severedamage>
+        <derilict>Images\Backdrops\vessel-backdrop.png</derilict>
+      </scene>
+      <crew size="2105" />
+      <playable />
+      <rarity>0.2</rarity>
+      <roles />
+      <cameras />
+      <gui />
+      <decks />
+      <damagecontrol />
+      <docks />
+      <hardpoints />
+      <weapongroups />
+      <cargo max="1200" />
+      <ordnance />
+      <lights />
+      <effects />
+    </vesselclass>
+  </vesselclasses>
+</resource>
