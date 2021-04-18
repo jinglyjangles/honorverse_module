@@ -1,5 +1,158 @@
 <resource fileversion="1">
   <pedias>
+    <pedia id="004f0275-99a8-4152-b28b-39863ad18901" parentid="" type="Article" group="" tags="bumed, rmn" access="0" visible="false">
+      <path />
+      <name>BuMed</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Bureau of Medicine&lt;/strong&gt;, or&amp;nbsp;&lt;strong&gt;BuMed&lt;/strong&gt;, is the [[Royal Manticoran Navy]]'s medical branch, headed by the&amp;nbsp;Seventh Space Lord, who was also the&amp;nbsp;Surgeon General of the Star Kingdom of Manticore.&lt;/p&gt;
+&lt;p&gt;Among other institutions, it oversees the Bassingford Medical Center.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="04245c63-e158-4422-b04d-ad69f49945f3" parentid="" type="Article" group="" tags="grayson, planet" access="0" visible="false">
+      <path />
+      <name>Grayson</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Grayson&lt;/strong&gt; is the inhabited fifth planet of the [[Yeltsin's Star System]], and the capital world of the [[Protectorate of Grayson]].&lt;br /&gt;&lt;br /&gt;
+&lt;table border="0" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;div id="infoboxinternal"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Grayson&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="0"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/9/90/Grayson_planet.png/revision/latest?cb=20121029010007"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/9/90/Grayson_planet.png/revision/latest/scale-to-width-down/248?cb=20121029010007" alt="Grayson planet.png" width="248" height="173" data-image-name="Grayson planet.png" data-image-key="Grayson_planet.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table style="width: 61.2821%;" border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="width: 28.5434%;"&gt;&lt;strong&gt;Location&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell" style="width: 59.5059%;"&gt;
+&lt;p&gt;[[Yeltsin's Star System]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Protectorate of Grayson]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Settled&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;988 PD&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Austin City&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;~ 3 billion&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&amp;nbsp;Plus 42 Sphinxian Treecats&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diameter&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;12,484 km&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Gravity&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;1.17 G&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Satellites&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_Geography" class="mw-headline"&gt;Star Geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Grayson is located in the Yeltsin's Star System, 31 light years to the north east of the [[Manticore System]], over five hundred light years away from [[Earth]], and two days travel west of the&amp;nbsp;Endicott System.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;It is the only habitable planet in its system, with a population of around four and a half billion humans around 1905 PD. &amp;nbsp;It orbited its star at a distance of about 13.5 light minutes.&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Planetary_characteristics" class="mw-headline"&gt;Planetary characteristics&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;The planet is not as large as Earth and had a blue-green color to it because of the massive amounts of chlorophyll. There are few deserts. Grayson has a high concentration of heavy metals, such as arsenic and cadmium. None of the native fauna and flora are edible to humans, and the water is too acidic to drink. Most of the metals are worth attracting interstellar trade.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
     <pedia id="0779ce62-4dcc-46af-94e6-2f07e72ed407" parentid="" type="Article" group="" tags="" access="0" visible="false">
       <path />
       <name>Beowulf</name>
@@ -222,6 +375,249 @@
       <image />
       <content>&lt;p&gt;The term&amp;nbsp;&lt;strong&gt;Post Diaspora&lt;/strong&gt;&amp;nbsp;(&lt;strong&gt;PD&lt;/strong&gt; for short) is the common interstellar era description of the [[humans]] who colonized the Galaxy during the Diaspora of Man. The Diaspora began in the year 2103 CE, when first human colonisation ship, &lt;em&gt;Prometheus&lt;/em&gt;, left [[Earth]].&lt;/p&gt;
 &lt;p&gt;The term&amp;nbsp;&lt;em&gt;Ante Diaspora&lt;/em&gt; (AD) was used for the preceding era. &lt;br /&gt;&lt;br /&gt;(see also [[AL]])&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="1c7e3d33-3831-4760-bc69-9f3b332db486" parentid="" type="Article" group="" tags="alliance" access="0" visible="false">
+      <path />
+      <name>Grand Alliance</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Grand Alliance&lt;/strong&gt; is a coalition of star nations opposed to the [[Solarian League]], created in the year&amp;nbsp;1922 PD. Its creation was the result of the revelation that many of the major political and military events in the recent history of these nations had been influenced by the enigmatic [[Mesan Alignment]]&amp;nbsp;in order to take over the colonized universe.&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Members" class="mw-headline"&gt;Members&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Known star nations participating in the Grand Alliance were:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[[Protectorate of Grayson]]&lt;/li&gt;
+&lt;li&gt;[[Republic of Beowulf]]&lt;/li&gt;
+&lt;li&gt;[[Republic of Haven]]&lt;/li&gt;
+&lt;li&gt;[[Star Empire of Manticore]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The [[human]] star nations of the Grand Alliance were supported by the [[treecat]]s of Sphinx, a sentient species protected by the [[Star Kingdom of Manticore]].&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The [[Kingdom of Torch]]'s relationship to the Grand Alliance was unknown, though probably friendly. In addition, both the [[Republic of Erewhon]] and the [[Solarian League]]'s Maya Sector&amp;nbsp;were cautiously cordial towards it, although the latter found it politically prudent to keep friendly ties unofficial.&lt;/p&gt;
+&lt;p&gt;Although the [[Andermani Empire]]&amp;nbsp;was a member of the previous&amp;nbsp;Manticoran Alliance, on the advice of&amp;nbsp;Honor Harrington and [[Queen Elizabeth III]], it chose not to join the Grand Alliance to leave open the potential for independent action against the [[Mesan Alignment]].&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="21e4d867-ffb6-4bb0-9662-23509a7ac79c" parentid="" type="Article" group="" tags="erewhon" access="0" visible="false">
+      <path />
+      <name>Republic of Erewhon</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Republic of Erewhon&lt;/strong&gt; is a single-system star nation with the planet [[Erewhon]] as its capital. It was allied with the [[Solarian League]]&amp;nbsp;and, like Manticore, in possession of a wormhole junction, the&amp;nbsp;Erewhon Wormhole Junction. Its terminus in the&amp;nbsp;Terra Haute System&amp;nbsp;was 25 light-years away from the&amp;nbsp;Hennesy Terminus of the [[Manticore Wormhole Junction]].&lt;br /&gt;&lt;br /&gt;
+&lt;table cellspacing="3" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;strong&gt;Republic of Erewhon&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Form of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Oligarchic Republic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Official language&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Standard English&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Home Planet&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Erewhon]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Maytag&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of State&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;President&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Unofficial quadrumvirate of families' heads&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Executive Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Cabinet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Erewhon Navy&lt;br /&gt;Erewhon Army&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_Geography" class="mw-headline"&gt;Star Geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The&amp;nbsp;[[Republic of Haven]] is located to the galactic north, the [[Star Kingdom of Manticore]]&amp;nbsp;to the west, and the&amp;nbsp;Phoenix Cluster&amp;nbsp;to the south-east.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="2f11fcf7-e809-4482-b926-13593d3be96f" parentid="" type="Article" group="" tags="manticore, talbott" access="0" visible="false">
+      <path />
+      <name>Talbott Quadrant</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Talbott Quadrant&lt;/strong&gt; is the designation for the systems of the Talbott Cluster that have elected to join the [[Star Empire of Manticore]]&amp;nbsp;following the discovery of the&amp;nbsp;Lynx Terminus&amp;nbsp;and the ratification of the Constitution of the Talbott Quadrant in the&amp;nbsp;Constitutional Convention&amp;nbsp;of 1921 PD.&lt;/p&gt;
+&lt;p&gt;The Quadrant is the primary responsibility of the [[Royal Manticoran Navy]]'s&amp;nbsp;Talbott Station&amp;nbsp;and its&amp;nbsp;Tenth Fleet.&amp;nbsp;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Star_Geography" class="mw-headline"&gt;Star Geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The Talbott Quadrant is composed of sixteen systems of the Talbott Cluster which agreed to join the Star Empire of Manticore under the terms established at the Talbott Constitutional Convention. As of 1921 PD, it included all the systems of the Cluster with the exception of New Tuscany&amp;nbsp;and&amp;nbsp;Lynx System. New Tuscany refused to join. The Lynx System was admitted as part of the [[Star Kingdom of Manticore]].&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Member_systems" class="mw-headline"&gt;Member systems&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Celebrant System&amp;nbsp;&amp;ndash;&amp;nbsp;Celebrant&lt;/li&gt;
+&lt;li&gt;Dresden System&amp;nbsp;&amp;ndash;&amp;nbsp;Dresden&lt;/li&gt;
+&lt;li&gt;Mainwaring System&lt;/li&gt;
+&lt;li&gt;Marian System&lt;/li&gt;
+&lt;li&gt;Montana System&amp;nbsp;&amp;ndash;&amp;nbsp;Montana&lt;/li&gt;
+&lt;li&gt;Nuncio System&amp;nbsp;&amp;ndash;&amp;nbsp;Pontifex&amp;nbsp;and&amp;nbsp;Basilica&lt;/li&gt;
+&lt;li&gt;Pequod System&lt;/li&gt;
+&lt;li&gt;Prairie System&lt;/li&gt;
+&lt;li&gt;Redoubt System&lt;/li&gt;
+&lt;li&gt;Rembrandt System&amp;nbsp;&amp;ndash;&amp;nbsp;Rembrandt&lt;/li&gt;
+&lt;li&gt;San Miguel System&lt;/li&gt;
+&lt;li&gt;Scarlet System&lt;/li&gt;
+&lt;li&gt;Spindle System&amp;nbsp;&amp;ndash;&amp;nbsp;Flax, capital world&lt;/li&gt;
+&lt;li&gt;Split System&amp;nbsp;&amp;ndash;&amp;nbsp;Kornati&lt;/li&gt;
+&lt;li&gt;Talbott System&lt;/li&gt;
+&lt;li&gt;Tillerman System&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span id="Government" class="mw-headline"&gt;Government&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;As a member of the Star Empire of Manticore, the head of state of the Talbott Quadrant is the Manticoran monarch. In 1922 PD, [[Queen Elizabeth III]], as "Empress Elizabeth I of the Star Empire of Manticore", was the Quadrant's formal head of state.&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="3947e316-a0a1-425c-9931-e0c6616d2056" parentid="" type="Article" group="" tags="planet, basilisk" access="0" visible="false">
+      <path />
+      <name>Medusa</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Medusa&lt;/strong&gt; is the sole inhabitable planet of the [[Basilisk System]] and homeworld of the [[Medusan]]s. It is located near the Basilisk Terminus of the [[Manticore Wormhole Junction]], which brings a lot of traffic to the system and the planet.&lt;br /&gt;&lt;br /&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Medusa&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="0"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/e/e6/Medusa_Tales_of_Honor_1.png/revision/latest?cb=20140318161321"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/e/e6/Medusa_Tales_of_Honor_1.png/revision/latest/scale-to-width-down/250?cb=20140318161321" alt="Medusa Tales of Honor 1.png" width="250" height="156" data-image-name="Medusa Tales of Honor 1.png" data-image-key="Medusa_Tales_of_Honor_1.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Basilisk System]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Star Empire of Manticore]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Settled&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;homeworld of the Medusans&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Resident Commissioner's compound&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;~700 million Medusans&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diameter&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Gravity&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;.85 G&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Satellites&lt;/strong&gt;:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="3f1a3e19-f108-4bc6-956e-689b31c8b673" parentid="" type="Article" group="" tags="mesan" access="0" visible="false">
+      <path />
+      <name>Mesan Alignment</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Mesan Alignment&lt;/strong&gt;&amp;nbsp;was a covert organization whose main goal was the purposeful improvement of the&amp;nbsp;human species&amp;nbsp;though&amp;nbsp;genetic manipulation. It used the&amp;nbsp;Mesan&amp;nbsp;government,&amp;nbsp;Manpower Incorporated, and assorted other organizations as fronts for its activities, ultimately intended to giving it control over humanity.&lt;/p&gt;
+&lt;p&gt;In the&amp;nbsp;20th Century PD, it was headed by&amp;nbsp;Albrecht Detweiler&amp;nbsp;and his cloned "sons".&lt;/p&gt;</content>
       <contentgm />
     </pedia>
     <pedia id="5787ee6c-3456-4566-ae0e-4aad9ecb0dc5" parentid="" type="Article" group="" tags="manticore, planet, human" access="0">
@@ -498,6 +894,18 @@
       <content>The&amp;nbsp;&lt;strong&gt;First Space Lord&lt;/strong&gt; is a member of the [[Manticoran Admiralty]] and the senior uniformed officer of the [[Royal Manticoran Navy]].</content>
       <contentgm />
     </pedia>
+    <pedia id="5b1018b7-318c-47c3-9518-adae17691e85" parentid="" type="Article" group="" tags="sidemore" access="0" visible="false">
+      <path />
+      <name>Republic of Sidemore</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Republic of Sidemore&lt;/strong&gt; is an independent star nation&amp;nbsp;in the&amp;nbsp;Marsh System on the edge of the [[Silesian Confederacy]].&lt;/p&gt;
+&lt;p&gt;The capital of the Republic is Sidemore, the sole habitable planet of Marsh.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In recognition of Captain&amp;nbsp;Honor Harrington's&amp;nbsp;contribution to restoring their freedom following the occupation of Sidemore and Marsh by&amp;nbsp;Andre Warnecke and his fugitive followers, the Sidemorians maintained a treaty relationship with the [[Star Kingdom of Manticore]], and later began expanding their trade into Silesia.&lt;/p&gt;
+&lt;p&gt;The Republic's armed space forces are called the Sidemore Navy.&lt;/p&gt;
+&lt;p&gt;In 1920 PD, following the partitioning and annexation of Silesia by the [[Andermani Empire]] and the Star Kingdom, the Republic remained an independent star nation and ally of the [[Star Empire of Manticore]].&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
     <pedia id="5d7eac06-e1b9-441d-8b34-3d0d5ec8f568" parentid="" type="Article" group="" tags="manticore, manties" access="0">
       <path />
       <name>Star Kingdom of Manticore</name>
@@ -572,6 +980,65 @@
 &lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content>
       <contentgm />
     </pedia>
+    <pedia id="605ee5be-7842-4cf1-938f-bc97edb40b09" parentid="" type="Article" group="" tags="torch" access="0" visible="false">
+      <path />
+      <name>Kingdom of Torch</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Kingdom of Torch&lt;/strong&gt; is an independent star nation&amp;nbsp;established by former&amp;nbsp;Manpower&amp;nbsp;slaves on the planet [[Torch]], formerly known as&amp;nbsp;&lt;em&gt;Congo&lt;/em&gt;, in the year&amp;nbsp;1919 PD.&lt;br /&gt;&lt;br /&gt;
+&lt;table cellspacing="3" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;strong&gt;Kingdom of Torch&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Form of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Monarchy (in organization)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Official language&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;English&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Home Planet&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Torch]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Beacon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of State&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Queen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Prime Minister&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Executive Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Cabinet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Royal Torch Navy&lt;br /&gt;Royal Torch Army&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Founded&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1919 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;4.25 mln&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_Geography" class="mw-headline"&gt;Star Geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The Kingdom encompassed the [[Congo System]], which lay between the [[Republic of Erewhon]], the [[Solarian League]], and the [[Republic of Haven]].&amp;nbsp;The nearby Congo Wormhole Junction was believed to have no fewer than three termini.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;In 1921 PD the junction was surveyed by&amp;nbsp;Dr. Jordin Kare&amp;nbsp;and&amp;nbsp;Dr. Richard Wix&amp;nbsp;and their team aboard the Manticoran survey vessel&amp;nbsp;&lt;em&gt;Harvest Joy&lt;/em&gt;. The survey mission located the terminus and determined that it was a wormhole bridge.&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
     <pedia id="607e347e-2434-407a-8d07-2d608005b029" parentid="" type="Article" group="" tags="manticore, wormhole" access="0">
       <path />
       <name>Manticore Wormhole Junction</name>
@@ -601,6 +1068,171 @@
       <content>&lt;strong&gt;Treecat&lt;/strong&gt; is the common name of the native sentient species of the planet [[Sphinx]] in the [[Manticore System]]. They are often referred to by the shortened version, '&lt;strong&gt;cats&lt;/strong&gt;, and referred to themselves as&amp;nbsp;&lt;strong&gt;The People.&lt;/strong&gt;</content>
       <contentgm />
     </pedia>
+    <pedia id="685368c1-bae0-456b-85b6-3ce2a382a883" parentid="" type="Article" group="" tags="butrain, rmn, saganami" access="0" visible="false">
+      <path />
+      <name>BuTrain</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Bureau of Training&lt;/strong&gt;, also called&amp;nbsp;&lt;strong&gt;BuTrain&lt;/strong&gt;, is the department of the [[Royal Manticoran Navy]] responsible for the education and training of officers and crewmen. As such, it organized and maintained the [[Saganami Island Naval Academy]]&amp;nbsp;and other training facilities.&lt;/p&gt;
+&lt;p&gt;It is led by the Sixth Space Lord, a position held by Vice Admiral Lord Sir&amp;nbsp;Frederick Ormskirk,&amp;nbsp;Earl of Tanith Hill&amp;nbsp;in the&amp;nbsp;1910s PD.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="6a1ac475-a9fd-40fd-b0b4-482fd0b9b873" parentid="" type="Article" group="" tags="manticore, planet" access="0" visible="false">
+      <path />
+      <name>San Martin</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;&lt;strong&gt;San Martin&lt;/strong&gt; is the only habitable planet in the [[Trevor's Star System]], and home to the [[Republic of San Martin]], an independent star nation that eventually became part of the [[Star Kingdom of Manticore]].&lt;/p&gt;
+&lt;p&gt;San Martin is a very dense world, with a gravity 2.7 times that of Earth. The planet is one of the heaviest-gravity worlds that man had ever settled. Its sea-level air pressure is high enough to produce near-toxic concentrations of carbon dioxide and nitrogen. This fact limits the population to mountain ranges, plateaus, and other high altitude locations.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;San Martin&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="0"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/8/8c/Manticoran_planet.png/revision/latest?cb=20100919154742"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/8/8c/Manticoran_planet.png/revision/latest/scale-to-width-down/200?cb=20100919154742" alt="Manticoran planet.png" width="200" height="200" data-image-name="Manticoran planet.png" data-image-key="Manticoran_planet.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Location&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Trevor's Star System]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Affiliation&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;[[Star Empire of Manticore]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Settled&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;Ciudad San Marcos&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Diameter&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Gravity&lt;/strong&gt;:&lt;/td&gt;
+&lt;td class="infoboxcell"&gt;
+&lt;p&gt;2.7 G&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Satellites&lt;/strong&gt;:&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="6c323ffa-228f-42f6-8edd-a93ccfcb29b7" parentid="" type="Article" group="" tags="rmn, buplan, navy" access="0" visible="false">
+      <path />
+      <name>BuPlan</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Bureau of Planning&lt;/strong&gt; is a department of the [[Royal Manticoran Navy]]. Headed by the Second Space Lord, it is the Manticoran equivalent of the [[Republic of Haven Navy]]'s institution of the same name.&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Departments" class="mw-headline"&gt;Departments&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[[Office of Naval Intelligence]]&amp;nbsp;(ONI)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span id="Directors" class="mw-headline"&gt;Directors&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Vice Admiral&amp;nbsp;Patricia Givens&amp;nbsp;(1905-1915 PD)&lt;/li&gt;
+&lt;li&gt;Admiral&amp;nbsp;Francis Jurgensen&amp;nbsp;(1915-1919 PD)&lt;/li&gt;
+&lt;li&gt;Admiral&amp;nbsp;Patricia Givens&amp;nbsp;(1920 PD - )&lt;/li&gt;
+&lt;/ul&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="6f312e6f-2439-4f9f-8a98-35c16e92b8bd" parentid="" type="Article" group="" tags="baslisk" access="0" visible="false">
+      <path />
+      <name>Medusan</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Medusans&lt;/strong&gt; are the native sentient species of the planet [[Medusa]] in the [[Basilisk System]].&lt;br /&gt;&lt;br /&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/9/99/Medusan_HOS_eARC_p321.jpg/revision/latest/scale-to-width-down/250?cb=20130215182749" /&gt;</content>
+      <contentgm />
+    </pedia>
     <pedia id="6faed20a-b860-4d13-b1de-1148d0dd0e40" parentid="" type="Article" group="" tags="rmmc, marines, manticore" access="0">
       <path />
       <name>Royal Manticoran Marine Corps</name>
@@ -617,9 +1249,60 @@
       <image />
       <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Royal Manticoran Navy&lt;/strong&gt;, or&amp;nbsp;&lt;strong&gt;RMN&lt;/strong&gt;, is the main military force for the Star Kingdom and [[Star Empire of Manticore]].&lt;/p&gt;
 &lt;p&gt;Ships of the RMN use the prefix HMS (His/Her Majesty's Ship).&lt;/p&gt;
-&lt;p&gt;Its officers are trained at [[Saganami Island Academy]].&lt;/p&gt;
+&lt;p&gt;Its officers are trained at [[Saganami Island Naval Academy]].&lt;/p&gt;
 &lt;p&gt;The RMN's motto is &lt;em&gt;Fortitudo, Fidelitas, Decus&lt;/em&gt;&amp;nbsp;(Courage, Loyalty, Honor).&lt;/p&gt;
 &lt;p&gt;The official motto of the RMN was "&lt;em&gt;The Tradition Lives&lt;/em&gt;."&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="73c21a9f-62bf-47ce-9b2e-d530e7c0051a" parentid="" type="Article" group="" tags="silesian" access="0" visible="false">
+      <path />
+      <name>Silesian Confederacy</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Silesian Confederacy&lt;/strong&gt; is a multi-system star nation to the far galactic north of the [[Solarian League]].&lt;br /&gt;&lt;br /&gt;
+&lt;table cellspacing="3" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/a/a3/Silesia_logo.png/revision/latest?cb=20111216142126"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/a/a3/Silesia_logo.png/revision/latest/scale-to-width-down/80?cb=20111216142126" alt="Silesia logo.png" width="80" height="80" data-image-name="Silesia logo.png" data-image-key="Silesia_logo.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;strong&gt;Silesian Confederacy&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Form of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Confederation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Home Planet&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Silesia]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Prime Minister&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Executive Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Cabinet&lt;br /&gt;Sector Governors&lt;br /&gt;System Governors&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Silesian Confederate Navy&lt;br /&gt;Silesian Army&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_Geography" class="mw-headline"&gt;Star Geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The Confederacy, consisting of around sixty inhabited star systems, divided into nine sectors, is bordered by the [[Anderman Empire]] and [[Sidemore Republic]] to the galactic southwest, and the [[Basilisk System]] to the northeast.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;It is roughly 105 ly across and has a volume of around 600,000 cubic lightyears.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="75d493f3-4999-4aef-a439-7ab1d5331470" parentid="" type="Article" group="" tags="battle, classified, manticore" access="0" visible="false">
+      <path />
+      <name>Solarian-Manticoran War</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Solarian-Manticoran War&lt;/strong&gt; (1921 - 1923 PD) was an undeclared war fought between the Solarian League&amp;nbsp;and the&amp;nbsp;Star Empire of Manticore.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The war was referred to as the&amp;nbsp;&lt;strong&gt;Manticoran Crisis&lt;/strong&gt; by those in the Solarian League.&lt;/p&gt;</content>
       <contentgm />
     </pedia>
     <pedia id="7795bb4e-0ba9-4c9b-a2f6-93ab2202c058" parentid="" type="Article" group="" tags="manticore, prime minister, government" access="0">
@@ -643,12 +1326,206 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</content>
       <contentgm />
     </pedia>
+    <pedia id="7b69fe2a-0bc2-4a11-9844-fe6f27be5ee0" parentid="" type="Article" group="" tags="havenite" access="0" visible="false">
+      <path />
+      <name>Republic of Haven Marine Corps</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Republic of Haven Marine Corps&lt;/strong&gt;, temporarily known as the&amp;nbsp;&lt;strong&gt;People&amp;rsquo;s Marines&lt;/strong&gt; (PM), are the "amphibious" military force of the [[Republic of Haven]].</content>
+      <contentgm />
+    </pedia>
+    <pedia id="7df4f70a-074c-46f7-8604-956200c61999" parentid="" type="Article" group="" tags="grayson" access="0" visible="false">
+      <path />
+      <name>Protectorate of Grayson</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Protectorate of Grayson&lt;/strong&gt; is a star nation encompassing the [[Yeltsin's Star System]] and its inhabited planet, also called [[Grayson]].&lt;br /&gt;&lt;br /&gt;
+&lt;table cellspacing="3" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/4/40/Grayson_Flag_HoS_01.png/revision/latest?cb=20130216181316"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/4/40/Grayson_Flag_HoS_01.png/revision/latest/scale-to-width-down/290?cb=20130216181316" alt="Grayson Flag HoS 01.png" width="290" height="178" data-image-name="Grayson Flag HoS 01.png" data-image-key="Grayson_Flag_HoS_01.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;strong&gt;Protectorate of Grayson&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Form of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Feudal Monarchy&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Official language&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Standard English&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Home Planet&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Grayson]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Austin City&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of State&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Protector]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Chancellor&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Senior Military Commander&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;High Admiral&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Executive Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Protector's Council&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Legislative Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Great Conclave&lt;br /&gt;Steadholders&lt;br /&gt;Steaders&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Grayson Space Navy]]&lt;br /&gt;[[Grayson Army]]&lt;br /&gt;[[Grayson Space Marine Corps]]&lt;br /&gt;Grayson Space Guard&amp;nbsp;(former)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Founded&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;988 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Population&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;~3 billion (1920 PD) plus 42 Sphinxian [[Treecat]]s&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Currency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Grayson austin&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="7eaaa4b8-959d-4971-be51-766c103eadad" parentid="" type="Article" group="" tags="battle, classified, manticore" access="0" visible="false">
+      <path />
+      <name>Battle of Sol</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Battle of Sol&lt;/strong&gt; was the final battle of the [[Solarian-Manticoran War]], fought in&amp;nbsp;January 1923 PD&amp;nbsp;in humanity's home system of&amp;nbsp;Sol ([[Sol System]]). It brought an end to the war, and resulted in unprecedented political and socio-economic changes for the [[Solarian League]].&lt;br /&gt;&lt;br /&gt;
+&lt;table border="0" cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;Battle of Sol&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;
+&lt;table cellspacing="0" cellpadding="4"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Conflict&lt;/th&gt;
+&lt;td class="infoboxcell"&gt;[[Solarian-Manticoran War]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;td class="infoboxcell"&gt;January 1923 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Place&lt;/th&gt;
+&lt;td&gt;[[Sol System]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Result&lt;/th&gt;
+&lt;td&gt;Alliance victory&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;&lt;strong&gt;Combatants&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="infoboxcell" width="50%"&gt;
+&lt;p&gt;[[Grand Alliance]]&amp;nbsp;Grand Fleet&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="infoboxcell" width="50%"&gt;
+&lt;p&gt;[[Solarian League Navy]]&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;&lt;strong&gt;Commanders&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="infoboxcell" width="50%"&gt;
+&lt;p&gt;Fleet Adm.&amp;nbsp;Alexander-Harrington&lt;/p&gt;
+&lt;/td&gt;
+&lt;td class="infoboxcell" width="50%"&gt;
+&lt;p&gt;Fleet Adm.&amp;nbsp;Kingsford&lt;br /&gt;Adm.&amp;nbsp;Haeckle, CO NSG&lt;br /&gt;Rear Adm.&amp;nbsp;Ning-Ju, CO, CruRon 572&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;&lt;strong&gt;Strength&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="infoboxcell" width="50%"&gt;
+&lt;p&gt;Grand Fleet&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;600+ ships of all sizes&lt;/li&gt;
+&lt;li&gt;Many LACs Deployed from CLACs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td class="infoboxcell" width="50%"&gt;
+&lt;p&gt;CruRon 572:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;8&amp;nbsp;Mikasa class&amp;nbsp;CA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NSG:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;62 SD&lt;/li&gt;
+&lt;li&gt;106 BC&lt;/li&gt;
+&lt;li&gt;62 CC&lt;/li&gt;
+&lt;li&gt;117 DD&lt;/li&gt;
+&lt;li&gt;120,000 pods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Earth:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;200+ SD&lt;/li&gt;
+&lt;li&gt;400 BC&lt;/li&gt;
+&lt;li&gt;1,000,000 pods&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th colspan="2"&gt;&lt;strong&gt;Casualties&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td class="infoboxcell" width="50%"&gt;
+&lt;ul&gt;
+&lt;li&gt;none&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;td class="infoboxcell" width="33%"&gt;
+&lt;p&gt;2DD and 1CA and crews destroyed&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SDs scuttled&lt;/li&gt;
+&lt;li&gt;BCs scuttled&lt;/li&gt;
+&lt;li&gt;CA/CLs scuttled&lt;/li&gt;
+&lt;li&gt;DDs scuttled&lt;/li&gt;
+&lt;li&gt;missile pods scuttled&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
     <pedia id="7ef86d07-655b-4a61-882c-50482eb3a0e2" parentid="" type="Article" group="" tags="manticore, basilisk" access="0">
       <path />
       <name>Basilisk System</name>
       <author />
       <image />
-      <content>The&amp;nbsp;&lt;strong&gt;Basilisk System&lt;/strong&gt; is a star system in the galactic north of the Manticore System, containing a&amp;nbsp;terminus&amp;nbsp;of the&amp;nbsp;Manticore Wormhole Junction.&lt;br /&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/f/ff/Basilisk_location_map.GIF/revision/latest/scale-to-width-down/300?cb=20090211130729" alt="Location of Basilisk" /&gt;&lt;br /&gt;&lt;br /&gt;
+      <content>The&amp;nbsp;&lt;strong&gt;Basilisk System&lt;/strong&gt; is a star system in the galactic north of the [[Manticore System]], containing a terminus of the Manticore Wormhole Junction.&lt;br /&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/f/ff/Basilisk_location_map.GIF/revision/latest/scale-to-width-down/300?cb=20090211130729" alt="Location of Basilisk" /&gt;&lt;br /&gt;&lt;br /&gt;
 &lt;p&gt;Basilisk is bordered by the [[Republic of Haven]] to the east, the [[Silesian Confederacy]] to the west. [[Manticore]] is 210 light years to the south.&lt;/p&gt;
 &lt;p&gt;The system consists of a G5 star and has a single habitable planet, [[Medusa]], which orbits it at a distance of about seven light minutes.&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt;&lt;/p&gt;</content>
       <contentgm />
@@ -887,6 +1764,66 @@
 &lt;/ul&gt;</content>
       <contentgm />
     </pedia>
+    <pedia id="a40927cc-cf6c-48cd-8745-57cacdf71f6f" parentid="" type="Article" group="" tags="manticore, people" access="0" visible="false">
+      <path />
+      <name>Queen Elizabeth III</name>
+      <author />
+      <image />
+      <content>&lt;strong&gt;Elizabeth III&lt;/strong&gt;,&amp;nbsp;Queen and Empress of Manticore, was the sixteenth reigning monarch of the [[Star Kingdom of Manticore]] and the first reigning monarch of the [[Star Empire of Manticore]].&lt;br /&gt;&lt;br /&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/a/a5/ElizabethIII.png/revision/latest/scale-to-width-down/290?cb=20120218101634" alt="ElizabethIII.png" /&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="a48e8ff4-aae7-476b-b8ce-13cd009f96ff" parentid="" type="Article" group="" tags="saganami, atc" access="0" visible="false">
+      <path />
+      <name>Advanced Tactical Course</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Advanced Tactical Course&lt;/strong&gt; is a course at the Royal Manticoran Naval Academy&amp;nbsp;on&amp;nbsp;Saganami Island (See [[Saganami Island Naval Academy]]) that is taken so that officers can command larger vessels such as light cruisers.&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Overview" class="mw-headline"&gt;Overview&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The course is housed in the Advanced Tactical Course building, and is informally known as &lt;strong&gt;The Crusher&lt;/strong&gt;. Very few officers are given the opportunity to wear the White Command Beret of a hyper-capable starship commander prior to taking the ATC. Failing to pass the ATC nearly always guaranteed that the officer would never again be assigned a hyper-capable command.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The ATC was created in the late 1680s PD by Commodore&amp;nbsp;Ellen D'Orville.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="a7574516-062f-4cb0-9989-85d77dd9cd33" parentid="" type="Article" group="" tags="haven, manticore" access="0" visible="false">
+      <path />
+      <name>Trevor's Star System</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Trevor's Star System&lt;/strong&gt; was a star system in the inner influence sphere of the [[Republic of Haven]]. It was the location of the&amp;nbsp;a terminus of the [[Manticore Wormhole Junction]], which was a cause of concern for both [[Manticore]]&amp;nbsp;and Haven, and eventualy became part of the Star Kingdom.&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_geography" class="mw-headline"&gt;Star geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Trevor's Star was located to the galactic east of the Star Kingdom of Manticore, in the territory of the expanded People's Republic of Haven. It was orbited by one inhabited planet named [[San Martin]].&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="b0bca846-c14e-4232-8eeb-1a6855a7eb75" parentid="" type="Article" group="" tags="havenite, navy, rhn" access="0" visible="false">
+      <path />
+      <name>Republic of Haven Navy</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Republic of Haven Navy&lt;/strong&gt;&amp;nbsp;(&lt;strong&gt;RHN&lt;/strong&gt;) is the main military force for the [[Republic of Haven]]. Its officers are trained at the Republic of Haven Naval Academy, and its ships use the prefix &lt;strong&gt;RHNS&lt;/strong&gt;&amp;nbsp;(Republic of Haven Navy Ship). During the time of the People's Republic, the RHN was commonly known as the&amp;nbsp;&lt;strong&gt;People's Navy&lt;/strong&gt;&amp;nbsp;(&lt;strong&gt;PN&lt;/strong&gt;), and its ships used the prefix&amp;nbsp;&lt;strong&gt;PNS&lt;/strong&gt;&amp;nbsp;(People's Navy Ship).&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Organization" class="mw-headline"&gt;Organization&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span id="Departments" class="mw-headline"&gt;Departments&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Special Operations&lt;/li&gt;
+&lt;li&gt;Bureau of Planning
+&lt;ul&gt;
+&lt;li&gt;Office of Operational Research
+&lt;ul&gt;
+&lt;li&gt;Office of Naval Intelligence&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;span id="Independent_formations" class="mw-headline"&gt;Independent formations&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span id="Fleets" class="mw-headline"&gt;Fleets&lt;/span&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Capital Fleet&amp;nbsp;(PN)&lt;/li&gt;
+&lt;li&gt;Twelfth Fleet&amp;nbsp;(PN)&lt;/li&gt;
+&lt;li&gt;First Fleet&amp;nbsp;(RHN)&lt;/li&gt;
+&lt;li&gt;Second Fleet&amp;nbsp;(RHN)&lt;/li&gt;
+&lt;li&gt;Fifth Fleet&amp;nbsp;(RHN)&lt;/li&gt;
+&lt;/ul&gt;</content>
+      <contentgm />
+    </pedia>
     <pedia id="b97abbdf-8208-4c19-8d84-85cacd0618ad" parentid="" type="Article" group="" tags="planet, earth, solarian, sol, sol system, human" access="0">
       <path />
       <name>Earth</name>
@@ -1017,6 +1954,26 @@
 &lt;/table&gt;</content>
       <contentgm />
     </pedia>
+    <pedia id="bf0f346e-5ead-4a31-96b7-d4cd6a7462cc" parentid="" type="Article" group="" tags="rmn, oni" access="0" visible="false">
+      <path />
+      <name>Office of Naval Intelligence</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Office of Naval Intelligence&lt;/strong&gt;, or&amp;nbsp;&lt;strong&gt;ONI&lt;/strong&gt;, is a department of the [[Royal Manticoran Navy]]&amp;nbsp;charged with retrieving and using information on other star nations, including vessels, personnel, and technology.&lt;/p&gt;
+&lt;p&gt;It is under the supervision of the Bureau of Planning ([[BuPlan]]), thus reporting to the&amp;nbsp;Second Space Lord.&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="c073c524-f709-4f52-8ab2-6a2ca1843ca2" parentid="" type="Article" group="" tags="san martin" access="0" visible="false">
+      <path />
+      <name>Republic of San Martin</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Republic of San Martin&lt;/strong&gt; is a small, single system star nation, centered on the planet [[San Martin]] in the [[Trevor's Star System]]&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Population" class="mw-headline"&gt;Population&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;San Martin's population is almost completely composed of genetically engineered humans modified for high gravity worlds. The primary language is Spanish. Most settlement are located on the mountaintops and high mesas.&lt;/p&gt;
+(See [[San Martin]])</content>
+      <contentgm />
+    </pedia>
     <pedia id="c3e4899b-8686-45f6-8491-434560e9ef34" parentid="" type="Article" group="" tags="manticore, rmn, navy, admiral" access="0">
       <path />
       <name>Manticoran Admiralty</name>
@@ -1034,12 +1991,12 @@
 &lt;h2&gt;&lt;span id="Space_Lords" class="mw-headline"&gt;Space Lords&lt;/span&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;[[First Space Lord]]&amp;nbsp;- the senior active-duty officer in the Royal Manticoran Navy, responsible for overall strategic direction, force structure management and deployment; directly under the First Space Lord's direction were the Type Commanders - each a full or fleet admiral charged with the maintenance and training of a specific class of naval vessel - and the Strategy Board.&lt;/li&gt;
-&lt;li&gt;Second Space Lord&amp;nbsp;- handled operational and tactical planning and is the head of the Office of Naval Intelligence and headed the Bureau of Planning (BuPlan); probably had also some power with Criminal Investigation Division supervision.&lt;/li&gt;
+&lt;li&gt;Second Space Lord - handled operational and tactical planning and is the head of the Office of Naval Intelligence and headed the Bureau of Planning ([[BuPlan]]); probably had also some power with Criminal Investigation Division supervision.&lt;/li&gt;
 &lt;li&gt;Third Space Lord&amp;nbsp;- oversaw construction and maintenance of warships in accordance with directions from the Second Lord of Admiralty as a head of the Bureau of Ships (BuShips).&lt;/li&gt;
-&lt;li&gt;Fourth Space Lord&amp;nbsp;- responsible for research and development of new systems for the Navy as a Head of the Bureau of Weapons (BuWeaps).&lt;/li&gt;
-&lt;li&gt;Fifth Space Lord&amp;nbsp;- managed recruitment and manpower and oversaw transfers and placement of naval personnel as a Head of the Bureau of Personnel (BuPers).&lt;/li&gt;
-&lt;li&gt;Sixth Space Lord&amp;nbsp;- as a Head of the Bureau of Training (BuTrain) was responsible for the training and education of naval personnel in accordance with the Third Lord of Admiralty and the Fifth Space Lord.&lt;/li&gt;
-&lt;li&gt;Seventh Space Lord&amp;nbsp;- as a Head of the Medical Bureau (BuMed) was in charge of the health and medical treatment of all Navy personnel and administered Naval Hospitals.&lt;/li&gt;
+&lt;li&gt;Fourth Space Lord - responsible for research and development of new systems for the Navy as a Head of the Bureau of Weapons ([[BuWeaps]]).&lt;/li&gt;
+&lt;li&gt;Fifth Space Lord - managed recruitment and manpower and oversaw transfers and placement of naval personnel as a Head of the Bureau of Personnel ([[BuPers]]).&lt;/li&gt;
+&lt;li&gt;Sixth Space Lord - as a Head of the Bureau of Training ([[BuTrain]]) was responsible for the training and education of naval personnel in accordance with the Third Lord of Admiralty and the Fifth Space Lord.&lt;/li&gt;
+&lt;li&gt;Seventh Space Lord - as a Head of the Medical Bureau ([[BuMed]]) was in charge of the health and medical treatment of all Navy personnel and administered Naval Hospitals.&lt;/li&gt;
 &lt;/ul&gt;</content>
       <contentgm />
     </pedia>
@@ -1052,6 +2009,511 @@
 &lt;p&gt;The termini are sometimes hundreds of light years away from the central nexus and from each other. Travel through the wormhole by hyper-capable ships is possible and allowed rapid travel to places that otherwise might take weeks, months, or even years to reach. Ships could travel from the nexus to any terminus, and from a terminus to the nexus, but direct travel between termini is impossible.&lt;/p&gt;
 &lt;p&gt;When a ship enters a junction, it actually ceases to exist in the normal space-time continuum for an instant.&lt;/p&gt;
 &lt;p&gt;The concept of wormhole junctions was first theorized by&amp;nbsp;Dr. Shigematsu Radhakrishnan.&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="c564252d-0b44-4f46-aca5-e87d66d2077e" parentid="" type="Article" group="" tags="havenite" access="0" visible="false">
+      <path />
+      <name>Republic of Haven Army</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Republic of Haven Army&lt;/strong&gt;, temporarily known as the&amp;nbsp;&lt;strong&gt;People's Army&lt;/strong&gt;, is the primary ground combat branch of the [[Republic of Haven]]'s armed forces.</content>
+      <contentgm />
+    </pedia>
+    <pedia id="ce5d7576-cf36-424b-96b7-7845c5af7dc5" parentid="" type="Article" group="" tags="manticore, rmn, saganami, navy" access="0" visible="false">
+      <path />
+      <name>Saganami Island Naval Academy</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Royal Manticoran Naval Academy&lt;/strong&gt;, also known as the&amp;nbsp;&lt;strong&gt;Saganami Island Academy&lt;/strong&gt;, is the Royal Manticoran Navy's officer school, located on&amp;nbsp;Saganami Island on the planet [[Manticore]].&lt;/p&gt;
+&lt;p&gt;The commander of the RMNA is the Commandant, who usually presents the Last View&amp;nbsp;Address to graduates.&lt;/p&gt;
+&lt;p&gt;The motto of the Saganami Island Naval Academy is "&lt;em&gt;In War: Resolution. In Defeat: Defiance. In Victory: Magnanimity. In Peace: Goodwill.&lt;/em&gt;"&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Courses" class="mw-headline"&gt;Courses (of note)&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[[Advanced Tactical Course]] &amp;ndash; held at the Advanced Tactical Course building&lt;/li&gt;
+&lt;li&gt;Commanding Officer's Course&lt;/li&gt;
+&lt;li&gt;Fourth Form Tactics&lt;/li&gt;
+&lt;li&gt;Introductory Tactics &amp;ndash; first-year course&lt;/li&gt;
+&lt;/ul&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="d1ba13db-5b38-44db-aa31-ccaaba8ca6e3" parentid="" type="Article" group="" tags="haven" access="0" visible="false">
+      <path />
+      <name>Republic of Haven</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Republic of Haven&lt;/strong&gt;, known as the&amp;nbsp;&lt;strong&gt;People's Republic of Haven&lt;/strong&gt;&amp;nbsp;while governed by the&amp;nbsp;Legislaturalists&amp;nbsp;and the&amp;nbsp;Committee of Public Safety (1700-1915 PD), is a multi-system star nation&amp;nbsp;surrounded by many one-system independent nations.&lt;/p&gt;
+&lt;p&gt;The demonym "&lt;strong&gt;Havenite&lt;/strong&gt;" is used to describe any person, object or concept associated with the Republic. During the period when Haven was known as the &lt;em&gt;People's&lt;/em&gt;&amp;nbsp;Republic of Haven (and on occasion thereafter), the informal and somewhat pejorative term&amp;nbsp;&lt;strong&gt;"Peep"&lt;/strong&gt;&amp;nbsp;was also used.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table cellspacing="3" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;a class="image" href="https://static.wikia.nocookie.net/honorverse/images/a/a3/Havenite_planet.png/revision/latest?cb=20100919161338"&gt;&lt;img src="https://static.wikia.nocookie.net/honorverse/images/a/a3/Havenite_planet.png/revision/latest/scale-to-width-down/200?cb=20100919161338" alt="Havenite planet.png" width="200" height="200" data-image-name="Havenite planet.png" data-image-key="Havenite_planet.png" /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;strong&gt;Republic of Haven&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Form of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Republic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Official language&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Standard English&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Home Planet&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Haven]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Nouveau Paris&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of State&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;President&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Senior Military Commander&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Chief of Naval Operations&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Executive Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Cabinet&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Legislative Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Congress&lt;br /&gt;&lt;small&gt;(Senate&amp;nbsp;and&amp;nbsp;House of Representatives)&lt;/small&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Republic of Haven Army]]&lt;br /&gt;[[Republic of Haven Marine Corps]]&lt;br /&gt;[[Republic of Haven Navy]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Founded&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1915 PD&lt;br /&gt;&lt;small&gt;(reestablishment after overthrow of the People's Republic of Haven)&lt;/small&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Currency&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Havenite credit&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_Geography" class="mw-headline"&gt;Star Geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The capital of the Republic is Nouveau Paris on the planet [[Haven]] in the [[Haven System]]. The [[Basilisk System]], home of one of the [[Manticore Wormhole Junction]] termini, is to the 'west' of Haven, along with the [[Silesian Confederacy]] and the [[Anderman Empire]]. The [[Star Kingdom of Manticore]] is to the 'southwest', and the [[Republic of Erewhon]]&amp;nbsp;with its&amp;nbsp;Erewhon Wormhole Junction to the 'south'. By the time of the [First Havenite-Manticoran War]]&amp;nbsp;the Republic of Haven included some 300 star systems.&lt;sup id="cite_ref-1" class="reference"&gt;&lt;/sup&gt; By the time of the [[Second Havenite-Manticoran War]], Haven had more than 75 inhabited worlds.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Member_Systems" class="mw-headline"&gt;Member Systems&lt;/span&gt;&lt;/h3&gt;
+&lt;dl&gt;
+&lt;dd&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;ul&gt;
+&lt;li&gt;[[Haven System]] &amp;ndash; Capital system of the Republic, home of the planet [[Haven]]&lt;/li&gt;
+&lt;li&gt;[[Cerberus System]] &amp;ndash; Location of the prison planet [[Hades]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table class="wikitable" style="height: 2033px; width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;th style="height: 21px; width: 14.8449%;"&gt;System&lt;/th&gt;
+&lt;th style="height: 21px; width: 10.5924%;"&gt;Suns&lt;/th&gt;
+&lt;th style="height: 21px; width: 13.0616%;"&gt;Planets&lt;/th&gt;
+&lt;th style="height: 21px; width: 53.8023%;"&gt;Details&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Alto Verde System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Augusta System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Barnett System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&lt;center&gt;1 (G9)&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;Enki&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;[[Cerberus System]]&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&lt;center&gt;3&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;[[Hades]]&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Site of the secret&amp;nbsp;Hades Planetary Prison&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Chantilly System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;Vespasien&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Clairmont System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Clarke System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&lt;center&gt;1 (G1)&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;Lois&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Corrigan System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&lt;center&gt;1 (G6)&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Danak System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&lt;center&gt;1 (G8)&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;Danak Alpha&lt;br /&gt;Danak Beta&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Home of&amp;nbsp;Danak System Command, in charge of the&amp;nbsp;Danak Sector&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Des Moines System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Fordyce System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Gaston System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;Toulon&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;Conquered sometime prior to 1856 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Gualt System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Hallman System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;[[Haven System]]&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;[[Haven]]&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Capital system of the Republic&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Helmsport System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Hera System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Jameston System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Joust System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Karavani System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;Karavani 5&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;uninhabited, apart from some mining&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;La Martine System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;La Martine&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Administrative capital of the&amp;nbsp;La Martine Sector&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Lannes System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Laramie System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Lorn System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 65px;"&gt;
+&lt;td style="height: 65px; width: 14.8449%;"&gt;Lovat System&lt;/td&gt;
+&lt;td style="height: 65px; width: 10.5924%;"&gt;&lt;center&gt;1 (G6)&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 65px; width: 13.0616%;"&gt;Furnace&lt;br /&gt;Forge&lt;br /&gt;Anvil&lt;/td&gt;
+&lt;td style="height: 65px; width: 53.8023%;"&gt;Site of&amp;nbsp;Operation Sanskrit's&amp;nbsp;Battle of Lovat&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Lowell System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Maastricht System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;MacGregor System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Mathias System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Michael System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Montague System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Mylar System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;New Calcutta System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Owens System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Paroa System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;Danville&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Pegasus System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;One of the first of the PRH's conquests. Conquered sometime prior to 1846 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Prague System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;Prague&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;Conquered prior to the First Havenite-Manticoran War&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Samson System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Sarawak System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered around 1873 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Seabring System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Site of the&amp;nbsp;First&amp;nbsp;and&amp;nbsp;Second Battle of Seabring&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Seaford Nine System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&lt;center&gt;1 (K2)&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Captured by RMN, later recaptured during&amp;nbsp;Operation Icarus&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Secour System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&lt;center&gt;3 (F9) ( _ ) (M2)&lt;/center&gt;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;Marienbad&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Sheldon System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered with the help of&amp;nbsp;Q-ships&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Shilo System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Home of&amp;nbsp;Shilo System Command, in charge of the&amp;nbsp;Shilo Sector&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Slocum System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Solon System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;Arthur&amp;nbsp;Merlin&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Solway System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Squalus System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Suarez System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;Conquered c1868 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Sun-Yat System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Tahlman System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;Conquered&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Tarragon System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Tambourin System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;One of the earlier PRH conquests&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Tequila System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;uninhabited&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;td style="height: 21px; width: 14.8449%;"&gt;Thetis System&lt;/td&gt;
+&lt;td style="height: 21px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 21px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.8449%;"&gt;Welladay System&lt;/td&gt;
+&lt;td style="height: 43px; width: 10.5924%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 13.0616%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 53.8023%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2&gt;&lt;span id="Former_members" class="mw-headline"&gt;Former members&lt;/span&gt;&lt;/h2&gt;
+&lt;table class="wikitable" style="height: 64px; width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr style="height: 21px;"&gt;
+&lt;th style="height: 21px; width: 14.4333%;"&gt;System&lt;/th&gt;
+&lt;th style="height: 21px; width: 4.96829%;"&gt;Suns&lt;/th&gt;
+&lt;th style="height: 21px; width: 7.5746%;"&gt;Planets&lt;/th&gt;
+&lt;th style="height: 21px; width: 65.325%;"&gt;Details&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr style="height: 43px;"&gt;
+&lt;td style="height: 43px; width: 14.4333%;"&gt;[[Trevor's Star System]]&lt;/td&gt;
+&lt;td style="height: 43px; width: 4.96829%;"&gt;&amp;nbsp;&lt;/td&gt;
+&lt;td style="height: 43px; width: 7.5746%;"&gt;[[San Martin]]&lt;/td&gt;
+&lt;td style="height: 43px; width: 65.325%;"&gt;Conquered in the Oct 1883 PD, was later freed and joined the [[Star Kingdom of Manticore]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="d25a3f41-7e49-4e31-85b7-d12143d655a3" parentid="" type="Article" group="" tags="human" access="0" visible="false">
+      <path />
+      <name>Human</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;&lt;strong&gt;Humans&lt;/strong&gt; are a sentient species from the planet [[Earth]] in the [[Sol System]]&amp;nbsp;and the predominant race in the known part of the&amp;nbsp;Milky Way galaxy.&lt;/p&gt;
+&lt;p&gt;[[Treecats]]&amp;nbsp;commonly referred to them as "two-legs".&amp;nbsp;&lt;br /&gt;&lt;br /&gt;Humans are a species of bipedal primates in the family Hominidae (taxonomically &lt;em&gt;Homo sapiens&lt;/em&gt;, Latin for "wise human" or "knowing human").&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Genetic_alterations" class="mw-headline"&gt;Genetic alterations&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;The&amp;nbsp;DNA-based genetic code of the human species could be altered in a number of ways commonly refered to as&amp;nbsp;genetic engineering. Once humans had found out how to achieve this, a number of genetic alterations on humans like the&amp;nbsp;Meyerdahl First Wave&amp;nbsp;and the&amp;nbsp;Winton modification were developed to encrease physical strength or mental capabilities.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The&amp;nbsp;Prolong Treatment&amp;nbsp;greatly encreased the life span of many humans in the&amp;nbsp;Post Diaspora ([[PD]])&amp;nbsp;era, from around 100 to more than 200 T-years.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="e2a81fde-e849-46bb-bdf3-6c11459fa866" parentid="" type="Article" group="" tags="grayson" access="0" visible="false">
+      <path />
+      <name>Protector</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Protector&lt;/strong&gt; is the hereditary ruler of the Protectorate of Grayson&amp;nbsp;and formal head of the&amp;nbsp;Church of Humanity Unchained.&lt;/p&gt;
+&lt;p&gt;The symbol of the Protector is a sword and bible; his office is known as the "&lt;strong&gt;Sword&lt;/strong&gt;"&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="List_of_known_Protectors" class="mw-headline"&gt;List of known Protectors&lt;/span&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Oliver I&lt;/li&gt;
+&lt;li&gt;Benjamin II&lt;/li&gt;
+&lt;li&gt;Oliver IV&lt;/li&gt;
+&lt;li&gt;Bernard III&lt;/li&gt;
+&lt;li&gt;Cyrus I "the Weak"&lt;/li&gt;
+&lt;li&gt;John II&amp;nbsp;( - 1337 PD)&lt;/li&gt;
+&lt;li&gt;Benjamin IV "the Great"&amp;nbsp;(1337 - 1397 PD)&lt;/li&gt;
+&lt;li&gt;Caleb&amp;nbsp;( - 1418 PD)&lt;/li&gt;
+&lt;li&gt;Thomas II "the Usurper"&amp;nbsp;(1418 - 1424 PD)&lt;/li&gt;
+&lt;li&gt;Bernard V&amp;nbsp;(1424 - )&lt;/li&gt;
+&lt;li&gt;Bernard VI&amp;nbsp;(1569 PD - )&lt;/li&gt;
+&lt;li&gt;Peter&lt;/li&gt;
+&lt;li&gt;Benjamin VII&amp;nbsp;( - 1655 PD)&lt;/li&gt;
+&lt;li&gt;Adrian&amp;nbsp;(1655 - 1681 PD)&lt;/li&gt;
+&lt;li&gt;Bernard VII&amp;nbsp;(~1704 PD)&lt;/li&gt;
+&lt;li&gt;Michael II&amp;nbsp;( - 1753 PD)&lt;/li&gt;
+&lt;li&gt;Robert I&amp;nbsp;(1753 - 1766 PD)&lt;/li&gt;
+&lt;li&gt;Robert II&amp;nbsp;(1766 PD - )&lt;/li&gt;
+&lt;li&gt;Benjamin IX&amp;nbsp;(1898 PD &amp;ndash; )&lt;/li&gt;
+&lt;/ul&gt;</content>
       <contentgm />
     </pedia>
     <pedia id="e6702b5f-2b13-4ea1-9360-839cfa6a179e" parentid="" type="Article" group="" tags="planet, sphinx, manticore" access="0">
@@ -1184,6 +2646,81 @@
 &lt;/table&gt;</content>
       <contentgm />
     </pedia>
+    <pedia id="e6b76994-beb4-449f-8c3b-23ae283a47dc" parentid="" type="Article" group="" tags="solarian, solly" access="0" visible="false">
+      <path />
+      <name>Solarian League</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Solarian League&lt;/strong&gt;&amp;nbsp;was the largest, wealthiest, and most powerful&amp;nbsp;star nation&amp;nbsp;in existence in the&amp;nbsp;20th Century PD, consisting of [[Earth]] itself and thousands of colonies surrounding the [[Sol System]].&lt;/p&gt;
+&lt;p&gt;The term "Solly" is often used to describe persons, objects or concepts associated with the League.&lt;/p&gt;
+&lt;table cellspacing="3" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td colspan="2"&gt;&lt;strong&gt;Solarian League&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Form of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Confederation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Official language&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Standard English&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Home Planet&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;[[Earth]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Capital&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Chicago&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of State&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;President of the League&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Head of Government&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Prime Minister&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Senior Military Commander&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Chief of Naval Operations&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Executive Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Executive Council&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Legislative Branch&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;League Assembly&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Military&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Frontier Forces&lt;br /&gt;Intervention battalion&lt;br /&gt;Solarian Gendarmerie&lt;br /&gt;[[Solarian League Marine Corps]]&lt;br /&gt;[[Solarian League Navy]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Founded&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;1165 PD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_geography" class="mw-headline"&gt;Star geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;With over 2,000 member and protected worlds in the 20th Century PD, the Solarian League extended in a radius of about 100 light years around the [[Sol System]].&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Government" class="mw-headline"&gt;Government&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;The Solarian League acts as a confederation. The&amp;nbsp;League Assembly is the legislative branch of its government, while the Executive Council, as the name implied, is the executive branch. All members were given equal representation, and every member had veto power.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;&lt;span id="Territory" class="mw-headline"&gt;Territory&lt;/span&gt;&lt;/h2&gt;
+&lt;h3&gt;&lt;span id="Members" class="mw-headline"&gt;Members&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;There are 1,784 planets that hold League membership, spread over the core systems, also called the Old League, and the Shell.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;The inner systems, or Core worlds, were the first hundred or so colonies settled from Earth and many of them had populations larger than ten billion.&lt;/p&gt;
+&lt;h3&gt;&lt;span id="Protectorates" class="mw-headline"&gt;Protectorates&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;The Solarian League possesses more than 200 protectorates. They are former Verge worlds who have generally come under administration of the Office of Frontier Security.&lt;sup id="cite_ref-3" class="reference"&gt;&lt;/sup&gt; Technically protectorates aren't member states, thus - part of the League territory.&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
     <pedia id="ee3d06b9-3dc6-4143-920b-7a6ad917ce7a" parentid="" type="Article" group="" tags="andermani" access="0" visible="false">
       <path />
       <name>Andermani Empire</name>
@@ -1230,6 +2767,41 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="f0884cd3-ad38-4441-bc7b-596a923be633" parentid="" type="Article" group="" tags="rmn, bueweaps" access="0" visible="false">
+      <path />
+      <name>BuWeaps</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Bureau of Weapons&lt;/strong&gt;, or&amp;nbsp;&lt;strong&gt;BuWeaps&lt;/strong&gt;, is a department of the Royal Manticoran Navy that deals with the development of weapons and technology related to strategies and tactics. It is commanded by the Fourth Space Lord.</content>
+      <contentgm />
+    </pedia>
+    <pedia id="f1d00d78-0a7f-4a7e-8c61-f13fe2c399bd" parentid="" type="Article" group="" tags="bupers, rmn" access="0" visible="false">
+      <path />
+      <name>BuPers</name>
+      <author />
+      <image />
+      <content>&lt;p&gt;The&amp;nbsp;&lt;strong&gt;Bureau of Personnel&lt;/strong&gt;, nicknamed&amp;nbsp;&lt;strong&gt;BuPers&lt;/strong&gt;, is a department of the [[Royal Manticoran Navy]], commanded by the&amp;nbsp;Fifth Space Lord. It is responsible for the recruiting, training, and assignments of naval personnel.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;One of the positions within BuPers is that of the Recruit Training Syllabus Officer.&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="f37fb474-1134-4f73-898a-4e607753fe67" parentid="" type="Article" group="" tags="san martin" access="0" visible="false">
+      <path />
+      <name>Trevor's Star System</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Trevor's Star System&lt;/strong&gt; is a star system in the inner influence sphere of the [[Republic of Haven]]. It is the location of the a terminus of the [[Manticore Wormhole Junction]], which was a cause of concern for both Manticore&amp;nbsp;and Haven, and eventualy became part of the Star Kingdom.&lt;br /&gt;&lt;br /&gt;
+&lt;h2&gt;&lt;span id="Star_geography" class="mw-headline"&gt;Star geography&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;Trevor's Star is located to the galactic east of the Star Kingdom of Manticore, in the territory of the expanded [[Republic of Haven]]. It is orbited by one inhabited planet named [[San Martin]].&amp;nbsp;&lt;/p&gt;</content>
+      <contentgm />
+    </pedia>
+    <pedia id="f976053b-f4e8-451e-884c-9e38adca6212" parentid="" type="Article" group="" tags="buships, rmn" access="0" visible="false">
+      <path />
+      <name>BuShips</name>
+      <author />
+      <image />
+      <content>The&amp;nbsp;&lt;strong&gt;Bureau of Ships&lt;/strong&gt;, also known as&amp;nbsp;&lt;strong&gt;BuShips&lt;/strong&gt;, is a department of the [[Royal Manticoran Navy]] that deals with the various vessels of the RMN. This includs building, refit, and maintenance of vessels. The bureau falls under the jurisdiction of the Third Space Lord.&lt;br /&gt;</content>
       <contentgm />
     </pedia>
     <pedia id="fda804d1-63ea-4947-bc9a-ab25b5f63685" parentid="" type="Article" group="" tags="talbott, manticore" access="0">
